@@ -15,7 +15,7 @@ Dashboard ini menampilkan performa penjualan toko online selama Januari–Juni 2
 
 ## 📁 Struktur
 - `Online_Store_Sales_Dashboard.pdf/` berisi tampilan dashboard.
-- `data_sample.csv` adalah contoh data dummy.
+- `data_penjualan_toko_online_q1_q2_2025.csv` adalah contoh data dummy.
 - `README.md` ini.
 
 ## 📌 Tools
