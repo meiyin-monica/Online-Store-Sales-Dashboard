@@ -1,0 +1,1001 @@
+Tanggal Transaksi;ID Transaksi;Nama Produk;Kategori;Harga Satuan;Jumlah Terjual;Total Penjualan;Nama Customer;Kota;Metode Pembayaran;Status Pengiriman
+04/06/2025;TRX00001;Tumbler Stainless;Lifestyle;70000;2;140000;dr. Dagel Melani;Surabaya;Transfer Bank;Diterima
+11/04/2025;TRX00002;Kaos Oversize;Fashion;85000;5;425000;Rina Setiawan;Medan;E-Wallet;Diproses
+13/04/2025;TRX00003;Tumbler Stainless;Lifestyle;70000;4;280000;Vicky Yuniar, M.Farm;Makassar;E-Wallet;Diproses
+19/03/2025;TRX00004;Kaos Oversize;Fashion;85000;4;340000;Titin Hariyah;Semarang;E-Wallet;Diproses
+01/04/2025;TRX00005;Skincare GlowBright;Kecantikan;150000;3;450000;drg. Karsa Irawan;Jakarta;Transfer Bank;Diproses
+18/03/2025;TRX00006;Powerbank 10.000mAh;Elektronik;160000;3;480000;Garang Kusumo;Palembang;COD;Diterima
+23/04/2025;TRX00007;Minyak Aromaterapi;Kesehatan;45000;2;90000;Salwa Sirait, M.Kom.;Semarang;Transfer Bank;Dikirim
+21/01/2025;TRX00008;Kaos Oversize;Fashion;85000;5;425000;Gangsa Natsir;Semarang;Transfer Bank;Diproses
+15/01/2025;TRX00009;Minyak Aromaterapi;Kesehatan;45000;3;135000;Gaman Mardhiyah;Surabaya;COD;Dikirim
+10/02/2025;TRX00010;Headset Wireless;Elektronik;230000;2;460000;Eli Purwanti;Bandung;COD;Dikirim
+22/01/2025;TRX00011;Jaket Hoodie;Fashion;120000;3;360000;drg. Eko Lestari, S.Gz;Medan;E-Wallet;Diproses
+11/04/2025;TRX00012;Skincare GlowBright;Kecantikan;150000;1;150000;Cindy Wahyudin;Palembang;Transfer Bank;Diproses
+28/01/2025;TRX00013;Jaket Hoodie;Fashion;120000;4;480000;Baktianto Wijaya;Medan;E-Wallet;Dikirim
+08/04/2025;TRX00014;Headset Wireless;Elektronik;230000;3;690000;Cagak Januar;Bandung;COD;Diterima
+06/04/2025;TRX00015;Lip Balm Natural;Kecantikan;29000;5;145000;Zulaikha Hassanah;Surabaya;COD;Dikirim
+27/01/2025;TRX00016;Headset Wireless;Elektronik;230000;1;230000;Eva Habibi;Medan;Transfer Bank;Diproses
+15/03/2025;TRX00017;Minyak Aromaterapi;Kesehatan;45000;4;180000;Dasa Sihombing;Yogyakarta;Transfer Bank;Diterima
+25/04/2025;TRX00018;Planner 2025;Lifestyle;35000;2;70000;H. Cawisono Yolanda;Makassar;E-Wallet;Diterima
+25/02/2025;TRX00019;Kaos Oversize;Fashion;85000;2;170000;Sutan Tasnim Nuraini;Yogyakarta;COD;Diproses
+04/05/2025;TRX00020;Lip Balm Natural;Kecantikan;29000;1;29000;Puti Farhunnisa Nashiruddin, S.Sos;Medan;COD;Diproses
+24/05/2025;TRX00021;Powerbank 10.000mAh;Elektronik;160000;4;640000;Baktiono Gunawan;Yogyakarta;Transfer Bank;Diproses
+15/03/2025;TRX00022;Sabun Organik Green;Kesehatan;25000;1;25000;Lidya Kusmawati;Makassar;E-Wallet;Dikirim
+18/04/2025;TRX00023;Skincare GlowBright;Kecantikan;150000;2;300000;Raina Kuswoyo;Palembang;Transfer Bank;Diterima
+07/02/2025;TRX00024;Jaket Hoodie;Fashion;120000;3;360000;Prakosa Wijayanti;Bandung;E-Wallet;Diproses
+14/06/2025;TRX00025;Skincare GlowBright;Kecantikan;150000;2;300000;Lega Hariyah;Semarang;COD;Diproses
+25/03/2025;TRX00026;Tumbler Stainless;Lifestyle;70000;5;350000;dr. Slamet Sihotang, M.Pd;Surabaya;E-Wallet;Diterima
+05/02/2025;TRX00027;Skincare GlowBright;Kecantikan;150000;5;750000;R. Maryanto Aryani, S.Kom;Semarang;Transfer Bank;Dikirim
+17/02/2025;TRX00028;Powerbank 10.000mAh;Elektronik;160000;1;160000;R.M. Langgeng Fujiati, S.Ked;Makassar;E-Wallet;Diproses
+27/06/2025;TRX00029;Headset Wireless;Elektronik;230000;3;690000;Panji Nainggolan;Makassar;Transfer Bank;Diproses
+26/05/2025;TRX00030;Skincare GlowBright;Kecantikan;150000;1;150000;Reksa Ramadan;Semarang;COD;Dikirim
+08/03/2025;TRX00031;Sabun Organik Green;Kesehatan;25000;3;75000;Jelita Maulana;Medan;Transfer Bank;Diterima
+15/03/2025;TRX00032;Lip Balm Natural;Kecantikan;29000;3;87000;Ana Yolanda;Medan;E-Wallet;Diproses
+08/06/2025;TRX00033;Minyak Aromaterapi;Kesehatan;45000;1;45000;Tgk. Elvin Santoso;Surabaya;COD;Diterima
+23/02/2025;TRX00034;Lip Balm Natural;Kecantikan;29000;4;116000;Harimurti Utami, M.Pd;Palembang;E-Wallet;Dikirim
+01/05/2025;TRX00035;Skincare GlowBright;Kecantikan;150000;1;150000;Genta Sihombing;Makassar;E-Wallet;Diterima
+15/03/2025;TRX00036;Minyak Aromaterapi;Kesehatan;45000;4;180000;Eka Lestari;Jakarta;Transfer Bank;Diterima
+27/01/2025;TRX00037;Minyak Aromaterapi;Kesehatan;45000;1;45000;Martaka Wibisono;Semarang;COD;Diterima
+27/05/2025;TRX00038;Skincare GlowBright;Kecantikan;150000;1;150000;Dr. Nova Susanti;Medan;E-Wallet;Dikirim
+18/04/2025;TRX00039;Jaket Hoodie;Fashion;120000;4;480000;Tgk. Faizah Susanti;Semarang;E-Wallet;Diproses
+29/03/2025;TRX00040;Skincare GlowBright;Kecantikan;150000;2;300000;Balamantri Prayoga;Makassar;COD;Diproses
+06/06/2025;TRX00041;Minyak Aromaterapi;Kesehatan;45000;3;135000;Sutan Ajimin Hidayat;Bandung;Transfer Bank;Diterima
+26/06/2025;TRX00042;Planner 2025;Lifestyle;35000;3;105000;Drs. Asirwada Andriani, S.H.;Surabaya;Transfer Bank;Dikirim
+27/03/2025;TRX00043;Lip Balm Natural;Kecantikan;29000;1;29000;Sutan Jono Hakim, M.Kom.;Surabaya;COD;Diproses
+06/02/2025;TRX00044;Tumbler Stainless;Lifestyle;70000;1;70000;Darmaji Pranowo, M.Farm;Medan;COD;Diproses
+09/04/2025;TRX00045;Minyak Aromaterapi;Kesehatan;45000;3;135000;Amelia Usamah, S.Ked;Surabaya;E-Wallet;Diproses
+10/01/2025;TRX00046;Minyak Aromaterapi;Kesehatan;45000;4;180000;Maida Mulyani;Medan;Transfer Bank;Dikirim
+12/05/2025;TRX00047;Powerbank 10.000mAh;Elektronik;160000;1;160000;Emil Maulana;Makassar;E-Wallet;Dikirim
+21/04/2025;TRX00048;Kaos Oversize;Fashion;85000;3;255000;Samiah Wastuti;Semarang;COD;Diterima
+19/02/2025;TRX00049;Planner 2025;Lifestyle;35000;1;35000;Rangga Zulkarnain;Makassar;COD;Diproses
+08/04/2025;TRX00050;Jaket Hoodie;Fashion;120000;3;360000;Puti Umi Pangestu;Bandung;COD;Diterima
+17/03/2025;TRX00051;Lip Balm Natural;Kecantikan;29000;1;29000;Hilda Suwarno;Makassar;Transfer Bank;Diterima
+17/05/2025;TRX00052;Lip Balm Natural;Kecantikan;29000;3;87000;Kamila Permata;Makassar;Transfer Bank;Diterima
+30/04/2025;TRX00053;Planner 2025;Lifestyle;35000;3;105000;Tgk. Jayeng Kuswandari, S.Ked;Semarang;Transfer Bank;Diproses
+06/02/2025;TRX00054;Headset Wireless;Elektronik;230000;2;460000;Okta Marbun;Medan;Transfer Bank;Diterima
+23/01/2025;TRX00055;Sabun Organik Green;Kesehatan;25000;5;125000;Liman Maulana;Palembang;Transfer Bank;Diproses
+05/02/2025;TRX00056;Skincare GlowBright;Kecantikan;150000;4;600000;Kiandra Rajata;Medan;E-Wallet;Diproses
+13/01/2025;TRX00057;Planner 2025;Lifestyle;35000;5;175000;Jane Uwais;Medan;E-Wallet;Diterima
+29/05/2025;TRX00058;Planner 2025;Lifestyle;35000;1;35000;Tgk. Prabawa Melani;Yogyakarta;Transfer Bank;Dikirim
+24/01/2025;TRX00059;Skincare GlowBright;Kecantikan;150000;4;600000;Arsipatra Kuswoyo;Palembang;Transfer Bank;Diterima
+24/03/2025;TRX00060;Sabun Organik Green;Kesehatan;25000;4;100000;Vega Oktaviani, S.I.Kom;Surabaya;Transfer Bank;Dikirim
+08/05/2025;TRX00061;Skincare GlowBright;Kecantikan;150000;1;150000;Titin Mahendra;Makassar;COD;Dikirim
+12/01/2025;TRX00062;Lip Balm Natural;Kecantikan;29000;4;116000;Ina Anggraini;Jakarta;E-Wallet;Dikirim
+16/02/2025;TRX00063;Planner 2025;Lifestyle;35000;4;140000;Salman Nurdiyanti;Palembang;COD;Diterima
+08/05/2025;TRX00064;Powerbank 10.000mAh;Elektronik;160000;3;480000;Nurul Latupono;Palembang;E-Wallet;Diproses
+25/04/2025;TRX00065;Jaket Hoodie;Fashion;120000;2;240000;Mahfud Sihotang;Semarang;E-Wallet;Diproses
+16/04/2025;TRX00066;Tumbler Stainless;Lifestyle;70000;5;350000;Tantri Nurdiyanti;Medan;E-Wallet;Diproses
+20/02/2025;TRX00067;Sabun Organik Green;Kesehatan;25000;1;25000;Syahrini Rahmawati;Bandung;COD;Diproses
+14/01/2025;TRX00068;Tumbler Stainless;Lifestyle;70000;3;210000;Hj. Nadine Novitasari;Bandung;COD;Diterima
+22/04/2025;TRX00069;Headset Wireless;Elektronik;230000;2;460000;KH. Cecep Uyainah, S.Ked;Semarang;COD;Diterima
+24/04/2025;TRX00070;Kaos Oversize;Fashion;85000;3;255000;Tirta Laksita;Palembang;COD;Dikirim
+09/06/2025;TRX00071;Headset Wireless;Elektronik;230000;2;460000;Akarsana Aryani;Palembang;COD;Dikirim
+10/02/2025;TRX00072;Lip Balm Natural;Kecantikan;29000;4;116000;Sutan Jatmiko Gunawan;Bandung;E-Wallet;Dikirim
+24/03/2025;TRX00073;Kaos Oversize;Fashion;85000;2;170000;Galih Rahayu;Makassar;Transfer Bank;Dikirim
+25/05/2025;TRX00074;Powerbank 10.000mAh;Elektronik;160000;2;320000;Cici Mulyani;Makassar;COD;Diproses
+23/06/2025;TRX00075;Planner 2025;Lifestyle;35000;1;35000;Irwan Saputra;Semarang;E-Wallet;Dikirim
+23/05/2025;TRX00076;Kaos Oversize;Fashion;85000;3;255000;T. Cengkir Kusmawati;Palembang;Transfer Bank;Diterima
+04/01/2025;TRX00077;Kaos Oversize;Fashion;85000;3;255000;Jarwadi Pertiwi;Makassar;E-Wallet;Dikirim
+17/04/2025;TRX00078;Powerbank 10.000mAh;Elektronik;160000;3;480000;Chelsea Sihombing, S.Ked;Semarang;E-Wallet;Dikirim
+30/01/2025;TRX00079;Powerbank 10.000mAh;Elektronik;160000;1;160000;Drs. Luis Yulianti;Palembang;Transfer Bank;Diproses
+05/01/2025;TRX00080;Sabun Organik Green;Kesehatan;25000;1;25000;Harsana Yuniar;Semarang;COD;Diproses
+17/02/2025;TRX00081;Kaos Oversize;Fashion;85000;1;85000;Lili Natsir, S.H.;Jakarta;Transfer Bank;Diproses
+11/04/2025;TRX00082;Minyak Aromaterapi;Kesehatan;45000;4;180000;Malika Firgantoro;Bandung;E-Wallet;Diproses
+05/04/2025;TRX00083;Headset Wireless;Elektronik;230000;1;230000;Simon Aryani;Yogyakarta;COD;Diproses
+03/05/2025;TRX00084;Sabun Organik Green;Kesehatan;25000;4;100000;Jatmiko Hassanah, S.Ked;Makassar;E-Wallet;Diproses
+27/06/2025;TRX00085;Headset Wireless;Elektronik;230000;5;1150000;Hilda Yuniar;Semarang;COD;Diterima
+14/02/2025;TRX00086;Lip Balm Natural;Kecantikan;29000;3;87000;Cindy Adriansyah;Makassar;E-Wallet;Diterima
+16/01/2025;TRX00087;Jaket Hoodie;Fashion;120000;5;600000;Amalia Manullang, S.IP;Medan;COD;Diterima
+23/01/2025;TRX00088;Skincare GlowBright;Kecantikan;150000;2;300000;Anastasia Prayoga;Semarang;COD;Diproses
+06/01/2025;TRX00089;Tumbler Stainless;Lifestyle;70000;5;350000;R.A. Ana Mulyani;Jakarta;COD;Diproses
+23/06/2025;TRX00090;Minyak Aromaterapi;Kesehatan;45000;5;225000;Drs. Cahyanto Lailasari;Makassar;Transfer Bank;Diproses
+06/03/2025;TRX00091;Tumbler Stainless;Lifestyle;70000;1;70000;Belinda Wasita, S.H.;Bandung;E-Wallet;Diproses
+24/02/2025;TRX00092;Powerbank 10.000mAh;Elektronik;160000;5;800000;R. Umaya Wahyuni, M.Pd;Semarang;E-Wallet;Diproses
+10/05/2025;TRX00093;Lip Balm Natural;Kecantikan;29000;5;145000;Halim Laksmiwati, M.Ak;Palembang;COD;Diproses
+26/02/2025;TRX00094;Skincare GlowBright;Kecantikan;150000;4;600000;dr. Zamira Wijayanti;Semarang;COD;Dikirim
+04/01/2025;TRX00095;Sabun Organik Green;Kesehatan;25000;4;100000;R. Harjaya Manullang;Makassar;Transfer Bank;Diterima
+21/06/2025;TRX00096;Tumbler Stainless;Lifestyle;70000;3;210000;Dr. Luis Samosir, M.TI.;Semarang;COD;Diproses
+22/03/2025;TRX00097;Kaos Oversize;Fashion;85000;1;85000;Manah Sihombing, M.TI.;Surabaya;Transfer Bank;Dikirim
+17/02/2025;TRX00098;Headset Wireless;Elektronik;230000;1;230000;Ir. Mutia Wasita, M.M.;Bandung;E-Wallet;Diterima
+08/03/2025;TRX00099;Powerbank 10.000mAh;Elektronik;160000;2;320000;R. Artanto Prayoga, S.T.;Makassar;COD;Diterima
+28/03/2025;TRX00100;Sabun Organik Green;Kesehatan;25000;4;100000;Nova Mandasari, S.Gz;Yogyakarta;Transfer Bank;Diproses
+31/05/2025;TRX00101;Tumbler Stainless;Lifestyle;70000;3;210000;dr. Lulut Nasyidah;Yogyakarta;E-Wallet;Diterima
+18/04/2025;TRX00102;Lip Balm Natural;Kecantikan;29000;1;29000;Soleh Hakim;Semarang;Transfer Bank;Dikirim
+13/01/2025;TRX00103;Lip Balm Natural;Kecantikan;29000;2;58000;Gasti Pudjiastuti;Semarang;E-Wallet;Dikirim
+09/05/2025;TRX00104;Minyak Aromaterapi;Kesehatan;45000;2;90000;Tgk. Edi Rahimah, S.H.;Medan;COD;Dikirim
+21/05/2025;TRX00105;Planner 2025;Lifestyle;35000;2;70000;Ozy Kuswoyo;Semarang;Transfer Bank;Diterima
+24/04/2025;TRX00106;Tumbler Stainless;Lifestyle;70000;1;70000;Maria Permadi;Makassar;E-Wallet;Diterima
+01/02/2025;TRX00107;Skincare GlowBright;Kecantikan;150000;3;450000;Eva Uyainah;Semarang;E-Wallet;Diterima
+30/03/2025;TRX00108;Minyak Aromaterapi;Kesehatan;45000;3;135000;R.M. Marsudi Najmudin;Palembang;E-Wallet;Diproses
+27/03/2025;TRX00109;Sabun Organik Green;Kesehatan;25000;3;75000;Kajen Anggriawan;Makassar;Transfer Bank;Diterima
+16/01/2025;TRX00110;Planner 2025;Lifestyle;35000;1;35000;Mitra Santoso;Jakarta;Transfer Bank;Dikirim
+20/03/2025;TRX00111;Powerbank 10.000mAh;Elektronik;160000;4;640000;Tania Haryanti;Makassar;COD;Diterima
+13/04/2025;TRX00112;Powerbank 10.000mAh;Elektronik;160000;5;800000;Dewi Maryadi;Palembang;COD;Diproses
+09/03/2025;TRX00113;Lip Balm Natural;Kecantikan;29000;4;116000;R.A. Puput Hariyah;Bandung;Transfer Bank;Diproses
+26/05/2025;TRX00114;Tumbler Stainless;Lifestyle;70000;1;70000;Drs. Rachel Utama, M.M.;Surabaya;COD;Diterima
+22/03/2025;TRX00115;Sabun Organik Green;Kesehatan;25000;2;50000;Ir. Cawuk Haryanti;Semarang;E-Wallet;Dikirim
+17/05/2025;TRX00116;Kaos Oversize;Fashion;85000;5;425000;dr. Ratna Utami, M.Pd;Jakarta;COD;Dikirim
+09/01/2025;TRX00117;Sabun Organik Green;Kesehatan;25000;2;50000;Hj. Siska Aryani;Palembang;E-Wallet;Diproses
+01/04/2025;TRX00118;Planner 2025;Lifestyle;35000;1;35000;Jaswadi Usamah, M.M.;Jakarta;E-Wallet;Diterima
+02/05/2025;TRX00119;Lip Balm Natural;Kecantikan;29000;3;87000;dr. Cakrajiya Pranowo;Jakarta;Transfer Bank;Dikirim
+30/03/2025;TRX00120;Skincare GlowBright;Kecantikan;150000;2;300000;R.A. Maria Nugroho, M.TI.;Medan;E-Wallet;Dikirim
+22/04/2025;TRX00121;Lip Balm Natural;Kecantikan;29000;5;145000;Samiah Fujiati;Semarang;COD;Diproses
+04/01/2025;TRX00122;Kaos Oversize;Fashion;85000;3;255000;Lanang Widodo;Jakarta;COD;Diproses
+21/06/2025;TRX00123;Kaos Oversize;Fashion;85000;4;340000;Yani Firgantoro;Palembang;Transfer Bank;Diproses
+07/01/2025;TRX00124;Headset Wireless;Elektronik;230000;1;230000;drg. Kawaca Putra;Palembang;COD;Diterima
+11/05/2025;TRX00125;Planner 2025;Lifestyle;35000;4;140000;Caket Situmorang;Medan;Transfer Bank;Dikirim
+06/05/2025;TRX00126;Powerbank 10.000mAh;Elektronik;160000;3;480000;Jasmin Pratiwi;Medan;E-Wallet;Diproses
+16/05/2025;TRX00127;Skincare GlowBright;Kecantikan;150000;3;450000;Yono Widiastuti, S.Pd;Surabaya;COD;Diterima
+24/05/2025;TRX00128;Powerbank 10.000mAh;Elektronik;160000;3;480000;Raharja Purnawati;Makassar;Transfer Bank;Dikirim
+08/06/2025;TRX00129;Headset Wireless;Elektronik;230000;5;1150000;Drs. Iriana Firgantoro, S.Sos;Jakarta;COD;Dikirim
+16/04/2025;TRX00130;Minyak Aromaterapi;Kesehatan;45000;4;180000;Cahyadi Situmorang;Surabaya;E-Wallet;Dikirim
+15/05/2025;TRX00131;Planner 2025;Lifestyle;35000;2;70000;Galiono Rajasa;Surabaya;Transfer Bank;Diterima
+16/01/2025;TRX00132;Powerbank 10.000mAh;Elektronik;160000;2;320000;Rachel Tamba;Makassar;E-Wallet;Diproses
+17/03/2025;TRX00133;Powerbank 10.000mAh;Elektronik;160000;1;160000;Wage Laksmiwati;Yogyakarta;COD;Diterima
+24/05/2025;TRX00134;Headset Wireless;Elektronik;230000;3;690000;Calista Permata;Medan;COD;Dikirim
+14/04/2025;TRX00135;Tumbler Stainless;Lifestyle;70000;5;350000;KH. Muni Suartini, M.TI.;Jakarta;Transfer Bank;Dikirim
+09/06/2025;TRX00136;Powerbank 10.000mAh;Elektronik;160000;1;160000;Capa Samosir, S.IP;Surabaya;COD;Dikirim
+23/01/2025;TRX00137;Kaos Oversize;Fashion;85000;3;255000;Ian Simbolon, S.Pd;Semarang;COD;Diproses
+11/04/2025;TRX00138;Jaket Hoodie;Fashion;120000;3;360000;Farhunnisa Maulana, S.Sos;Surabaya;Transfer Bank;Diterima
+16/05/2025;TRX00139;Skincare GlowBright;Kecantikan;150000;1;150000;Gara Latupono;Medan;Transfer Bank;Diproses
+15/05/2025;TRX00140;Kaos Oversize;Fashion;85000;1;85000;Paiman Prasetya;Yogyakarta;E-Wallet;Diproses
+17/04/2025;TRX00141;Tumbler Stainless;Lifestyle;70000;5;350000;Ajiono Salahudin;Yogyakarta;Transfer Bank;Dikirim
+05/05/2025;TRX00142;Jaket Hoodie;Fashion;120000;3;360000;Sutan Artawan Utama, S.IP;Jakarta;COD;Dikirim
+06/05/2025;TRX00143;Kaos Oversize;Fashion;85000;5;425000;Mumpuni Saputra, S.T.;Semarang;Transfer Bank;Diterima
+07/05/2025;TRX00144;Skincare GlowBright;Kecantikan;150000;2;300000;Puti Betania Sitorus;Bandung;E-Wallet;Diterima
+09/06/2025;TRX00145;Skincare GlowBright;Kecantikan;150000;3;450000;Bahuraksa Mustofa, S.E.I;Medan;Transfer Bank;Diproses
+18/03/2025;TRX00146;Jaket Hoodie;Fashion;120000;5;600000;Ani Namaga;Semarang;Transfer Bank;Diterima
+20/05/2025;TRX00147;Lip Balm Natural;Kecantikan;29000;2;58000;Dalimin Marpaung;Palembang;Transfer Bank;Dikirim
+21/04/2025;TRX00148;Lip Balm Natural;Kecantikan;29000;1;29000;Prakosa Pratiwi;Yogyakarta;E-Wallet;Dikirim
+29/06/2025;TRX00149;Minyak Aromaterapi;Kesehatan;45000;4;180000;Kasiyah Rajasa, M.Ak;Makassar;E-Wallet;Diterima
+11/05/2025;TRX00150;Lip Balm Natural;Kecantikan;29000;1;29000;Kariman Astuti;Palembang;COD;Diproses
+04/03/2025;TRX00151;Planner 2025;Lifestyle;35000;3;105000;Balangga Waskita;Bandung;E-Wallet;Diterima
+23/03/2025;TRX00152;Headset Wireless;Elektronik;230000;1;230000;Dimas Wibisono;Makassar;E-Wallet;Diproses
+14/03/2025;TRX00153;Powerbank 10.000mAh;Elektronik;160000;4;640000;Dt. Yahya Nugroho, S.Sos;Semarang;COD;Diproses
+14/05/2025;TRX00154;Kaos Oversize;Fashion;85000;5;425000;Drs. Mulyanto Hastuti;Surabaya;Transfer Bank;Diproses
+20/04/2025;TRX00155;Jaket Hoodie;Fashion;120000;1;120000;Icha Sirait, S.E.;Semarang;Transfer Bank;Dikirim
+14/01/2025;TRX00156;Powerbank 10.000mAh;Elektronik;160000;2;320000;Bakidin Jailani;Yogyakarta;COD;Diterima
+08/01/2025;TRX00157;Planner 2025;Lifestyle;35000;5;175000;H. Bala Nababan, S.Pt;Medan;COD;Dikirim
+01/05/2025;TRX00158;Lip Balm Natural;Kecantikan;29000;5;145000;Cut Titi Melani, S.H.;Bandung;E-Wallet;Diproses
+12/05/2025;TRX00159;Headset Wireless;Elektronik;230000;4;920000;Gamblang Wibisono, M.TI.;Jakarta;Transfer Bank;Dikirim
+08/03/2025;TRX00160;Planner 2025;Lifestyle;35000;1;35000;Olivia Tampubolon, S.H.;Yogyakarta;Transfer Bank;Diterima
+04/05/2025;TRX00161;Headset Wireless;Elektronik;230000;4;920000;Laila Putra;Palembang;Transfer Bank;Diproses
+17/04/2025;TRX00162;Skincare GlowBright;Kecantikan;150000;3;450000;Wardi Wahyudin;Jakarta;Transfer Bank;Dikirim
+17/06/2025;TRX00163;Planner 2025;Lifestyle;35000;1;35000;Pandu Mustofa;Bandung;Transfer Bank;Diproses
+27/03/2025;TRX00164;Headset Wireless;Elektronik;230000;4;920000;Hairyanto Suartini, S.Gz;Bandung;Transfer Bank;Diproses
+24/05/2025;TRX00165;Sabun Organik Green;Kesehatan;25000;5;125000;Hj. Jessica Suryatmi, S.IP;Makassar;Transfer Bank;Diproses
+03/06/2025;TRX00166;Jaket Hoodie;Fashion;120000;4;480000;Puti Maya Wibowo, S.I.Kom;Medan;E-Wallet;Diterima
+29/01/2025;TRX00167;Sabun Organik Green;Kesehatan;25000;1;25000;R.M. Prayoga Sihombing, S.E.I;Bandung;COD;Diproses
+17/04/2025;TRX00168;Planner 2025;Lifestyle;35000;1;35000;R. Digdaya Andriani, S.T.;Surabaya;COD;Dikirim
+06/05/2025;TRX00169;Skincare GlowBright;Kecantikan;150000;5;750000;Legawa Budiman, M.TI.;Medan;Transfer Bank;Diterima
+09/05/2025;TRX00170;Jaket Hoodie;Fashion;120000;2;240000;T. Yoga Siregar, S.Ked;Jakarta;Transfer Bank;Diterima
+01/01/2025;TRX00171;Planner 2025;Lifestyle;35000;4;140000;Ina Oktaviani;Palembang;COD;Diproses
+13/01/2025;TRX00172;Kaos Oversize;Fashion;85000;2;170000;Wani Habibi, M.TI.;Bandung;E-Wallet;Dikirim
+26/03/2025;TRX00173;Planner 2025;Lifestyle;35000;1;35000;Ir. Zulfa Budiyanto;Jakarta;Transfer Bank;Diproses
+12/05/2025;TRX00174;Jaket Hoodie;Fashion;120000;5;600000;Marsito Wulandari;Semarang;Transfer Bank;Dikirim
+01/02/2025;TRX00175;Lip Balm Natural;Kecantikan;29000;5;145000;Rahman Sudiati;Bandung;E-Wallet;Diterima
+07/05/2025;TRX00176;Kaos Oversize;Fashion;85000;1;85000;Danang Kurniawan;Jakarta;Transfer Bank;Dikirim
+24/04/2025;TRX00177;Skincare GlowBright;Kecantikan;150000;3;450000;Jayeng Marbun;Palembang;E-Wallet;Diproses
+17/02/2025;TRX00178;Planner 2025;Lifestyle;35000;5;175000;Dt. Kariman Rahimah;Makassar;E-Wallet;Diterima
+20/04/2025;TRX00179;Headset Wireless;Elektronik;230000;2;460000;Yuni Laksita;Jakarta;E-Wallet;Diproses
+23/03/2025;TRX00180;Sabun Organik Green;Kesehatan;25000;4;100000;Anita Farida, S.IP;Semarang;E-Wallet;Dikirim
+02/01/2025;TRX00181;Minyak Aromaterapi;Kesehatan;45000;4;180000;Tgk. Bella Tampubolon, S.Kom;Makassar;Transfer Bank;Diterima
+21/05/2025;TRX00182;Sabun Organik Green;Kesehatan;25000;1;25000;Zulfa Megantara;Jakarta;Transfer Bank;Diterima
+04/03/2025;TRX00183;Tumbler Stainless;Lifestyle;70000;4;280000;Among Sitorus;Medan;COD;Diproses
+25/05/2025;TRX00184;Headset Wireless;Elektronik;230000;1;230000;Sabrina Pranowo;Medan;COD;Dikirim
+31/01/2025;TRX00185;Sabun Organik Green;Kesehatan;25000;2;50000;Tirta Yolanda, M.TI.;Makassar;E-Wallet;Diproses
+23/04/2025;TRX00186;Jaket Hoodie;Fashion;120000;2;240000;Alambana Puspita, S.E.I;Bandung;COD;Diproses
+09/06/2025;TRX00187;Minyak Aromaterapi;Kesehatan;45000;1;45000;Zelda Purnawati, S.Pt;Palembang;E-Wallet;Dikirim
+10/04/2025;TRX00188;Headset Wireless;Elektronik;230000;2;460000;Hj. Sabrina Salahudin;Semarang;Transfer Bank;Diterima
+17/01/2025;TRX00189;Planner 2025;Lifestyle;35000;4;140000;Tirta Sihombing;Yogyakarta;Transfer Bank;Dikirim
+03/02/2025;TRX00190;Minyak Aromaterapi;Kesehatan;45000;3;135000;T. Jaeman Nasyidah, S.I.Kom;Yogyakarta;COD;Diterima
+09/04/2025;TRX00191;Jaket Hoodie;Fashion;120000;3;360000;Banawi Hastuti;Yogyakarta;E-Wallet;Dikirim
+27/02/2025;TRX00192;Tumbler Stainless;Lifestyle;70000;4;280000;Argono Andriani;Jakarta;COD;Diproses
+15/01/2025;TRX00193;Tumbler Stainless;Lifestyle;70000;2;140000;Ajiono Prabowo;Semarang;COD;Diterima
+21/06/2025;TRX00194;Kaos Oversize;Fashion;85000;5;425000;Jati Yolanda, S.Pt;Jakarta;COD;Dikirim
+19/06/2025;TRX00195;Powerbank 10.000mAh;Elektronik;160000;4;640000;Ulya Hutapea;Makassar;E-Wallet;Diterima
+18/05/2025;TRX00196;Lip Balm Natural;Kecantikan;29000;1;29000;Jinawi Rahimah;Jakarta;E-Wallet;Dikirim
+20/03/2025;TRX00197;Skincare GlowBright;Kecantikan;150000;5;750000;Lasmono Kuswoyo;Surabaya;Transfer Bank;Diterima
+17/05/2025;TRX00198;Powerbank 10.000mAh;Elektronik;160000;5;800000;Harsana Setiawan, M.Kom.;Palembang;Transfer Bank;Dikirim
+20/02/2025;TRX00199;Lip Balm Natural;Kecantikan;29000;1;29000;Alika Winarsih;Makassar;COD;Diterima
+14/03/2025;TRX00200;Minyak Aromaterapi;Kesehatan;45000;3;135000;Kawaya Saragih;Surabaya;Transfer Bank;Dikirim
+10/04/2025;TRX00201;Tumbler Stainless;Lifestyle;70000;2;140000;Mutia Usada;Jakarta;Transfer Bank;Dikirim
+03/02/2025;TRX00202;Powerbank 10.000mAh;Elektronik;160000;2;320000;Dewi Pradipta;Yogyakarta;Transfer Bank;Dikirim
+29/03/2025;TRX00203;Lip Balm Natural;Kecantikan;29000;4;116000;Jagapati Agustina, S.H.;Makassar;E-Wallet;Diterima
+06/02/2025;TRX00204;Powerbank 10.000mAh;Elektronik;160000;3;480000;Puspa Wahyudin, M.Ak;Medan;Transfer Bank;Diterima
+12/03/2025;TRX00205;Lip Balm Natural;Kecantikan;29000;5;145000;Anom Aryani;Medan;E-Wallet;Diproses
+08/05/2025;TRX00206;Powerbank 10.000mAh;Elektronik;160000;3;480000;Drs. Tira Siregar, S.Psi;Jakarta;Transfer Bank;Diterima
+14/03/2025;TRX00207;Minyak Aromaterapi;Kesehatan;45000;3;135000;KH. Dariati Suryatmi;Semarang;COD;Dikirim
+03/02/2025;TRX00208;Sabun Organik Green;Kesehatan;25000;1;25000;Opan Januar;Semarang;COD;Diterima
+06/05/2025;TRX00209;Lip Balm Natural;Kecantikan;29000;1;29000;Tgk. Hamima Firgantoro, M.Farm;Palembang;E-Wallet;Diterima
+28/03/2025;TRX00210;Minyak Aromaterapi;Kesehatan;45000;3;135000;Ihsan Siregar;Bandung;Transfer Bank;Diproses
+25/06/2025;TRX00211;Planner 2025;Lifestyle;35000;4;140000;Eka Safitri;Bandung;Transfer Bank;Diproses
+18/04/2025;TRX00212;Minyak Aromaterapi;Kesehatan;45000;2;90000;drg. Zulfa Sitorus;Surabaya;Transfer Bank;Dikirim
+28/03/2025;TRX00213;Tumbler Stainless;Lifestyle;70000;5;350000;Ajeng Lailasari;Semarang;Transfer Bank;Diterima
+08/04/2025;TRX00214;Skincare GlowBright;Kecantikan;150000;1;150000;KH. Cakrabirawa Napitupulu;Semarang;E-Wallet;Diproses
+05/01/2025;TRX00215;Kaos Oversize;Fashion;85000;3;255000;Tania Tarihoran;Bandung;COD;Diproses
+11/01/2025;TRX00216;Headset Wireless;Elektronik;230000;3;690000;dr. Gilda Santoso;Palembang;E-Wallet;Diproses
+16/03/2025;TRX00217;Headset Wireless;Elektronik;230000;2;460000;Capa Hastuti;Palembang;Transfer Bank;Diproses
+05/04/2025;TRX00218;Minyak Aromaterapi;Kesehatan;45000;2;90000;Ani Riyanti;Makassar;COD;Diterima
+22/06/2025;TRX00219;Powerbank 10.000mAh;Elektronik;160000;4;640000;Tugiman Najmudin;Bandung;Transfer Bank;Dikirim
+05/04/2025;TRX00220;Skincare GlowBright;Kecantikan;150000;1;150000;Kunthara Gunawan;Surabaya;E-Wallet;Diproses
+28/06/2025;TRX00221;Planner 2025;Lifestyle;35000;4;140000;Kalim Hastuti;Palembang;E-Wallet;Diproses
+11/01/2025;TRX00222;Skincare GlowBright;Kecantikan;150000;2;300000;Jayadi Namaga;Semarang;Transfer Bank;Diproses
+26/04/2025;TRX00223;Skincare GlowBright;Kecantikan;150000;1;150000;Bahuraksa Wasita;Bandung;COD;Dikirim
+05/01/2025;TRX00224;Planner 2025;Lifestyle;35000;2;70000;Putri Narpati;Medan;COD;Diproses
+23/05/2025;TRX00225;Jaket Hoodie;Fashion;120000;4;480000;Patricia Riyanti;Surabaya;COD;Diterima
+09/05/2025;TRX00226;Tumbler Stainless;Lifestyle;70000;5;350000;Salwa Kuswoyo;Medan;E-Wallet;Dikirim
+06/02/2025;TRX00227;Planner 2025;Lifestyle;35000;1;35000;Dr. Nrima Winarsih, S.Pt;Jakarta;Transfer Bank;Dikirim
+21/03/2025;TRX00228;Planner 2025;Lifestyle;35000;5;175000;Nyoman Dabukke;Palembang;COD;Diproses
+04/06/2025;TRX00229;Jaket Hoodie;Fashion;120000;2;240000;Zizi Mangunsong;Surabaya;E-Wallet;Dikirim
+22/02/2025;TRX00230;Tumbler Stainless;Lifestyle;70000;2;140000;R.M. Pangeran Utami;Jakarta;Transfer Bank;Diterima
+13/04/2025;TRX00231;Sabun Organik Green;Kesehatan;25000;4;100000;Aurora Hartati;Makassar;Transfer Bank;Dikirim
+05/05/2025;TRX00232;Tumbler Stainless;Lifestyle;70000;3;210000;Kasiyah Purwanti;Palembang;E-Wallet;Diterima
+20/01/2025;TRX00233;Planner 2025;Lifestyle;35000;3;105000;dr. Tari Dabukke;Bandung;COD;Diproses
+01/05/2025;TRX00234;Minyak Aromaterapi;Kesehatan;45000;3;135000;Lulut Palastri, M.Farm;Yogyakarta;E-Wallet;Diproses
+16/03/2025;TRX00235;Kaos Oversize;Fashion;85000;4;340000;Maryanto Safitri;Jakarta;COD;Diterima
+05/01/2025;TRX00236;Jaket Hoodie;Fashion;120000;2;240000;Dt. Darijan Lestari;Yogyakarta;COD;Diproses
+05/03/2025;TRX00237;Kaos Oversize;Fashion;85000;4;340000;Tgk. Nurul Narpati;Semarang;COD;Dikirim
+03/02/2025;TRX00238;Lip Balm Natural;Kecantikan;29000;4;116000;Luwes Wijaya;Yogyakarta;Transfer Bank;Diproses
+03/06/2025;TRX00239;Headset Wireless;Elektronik;230000;2;460000;Endah Irawan, M.Ak;Jakarta;Transfer Bank;Diproses
+05/06/2025;TRX00240;Powerbank 10.000mAh;Elektronik;160000;1;160000;Bakianto Iswahyudi;Palembang;COD;Dikirim
+16/06/2025;TRX00241;Headset Wireless;Elektronik;230000;5;1150000;Gaduh Hardiansyah;Yogyakarta;COD;Dikirim
+09/03/2025;TRX00242;Tumbler Stainless;Lifestyle;70000;3;210000;Artanto Purwanti;Jakarta;Transfer Bank;Dikirim
+27/02/2025;TRX00243;Jaket Hoodie;Fashion;120000;3;360000;Clara Yuniar;Bandung;Transfer Bank;Diproses
+22/01/2025;TRX00244;Powerbank 10.000mAh;Elektronik;160000;1;160000;Labuh Prasetya;Makassar;Transfer Bank;Diterima
+23/02/2025;TRX00245;Sabun Organik Green;Kesehatan;25000;3;75000;Ade Prasetya;Surabaya;E-Wallet;Diproses
+09/02/2025;TRX00246;Sabun Organik Green;Kesehatan;25000;1;25000;H. Dodo Yuliarti;Medan;E-Wallet;Diterima
+18/02/2025;TRX00247;Powerbank 10.000mAh;Elektronik;160000;2;320000;Limar Natsir;Surabaya;Transfer Bank;Dikirim
+09/02/2025;TRX00248;Powerbank 10.000mAh;Elektronik;160000;3;480000;Endah Agustina, S.IP;Bandung;Transfer Bank;Diterima
+05/06/2025;TRX00249;Lip Balm Natural;Kecantikan;29000;5;145000;Jane Sitorus;Palembang;E-Wallet;Dikirim
+20/06/2025;TRX00250;Kaos Oversize;Fashion;85000;4;340000;Vega Pranowo;Makassar;COD;Dikirim
+01/04/2025;TRX00251;Kaos Oversize;Fashion;85000;3;255000;Kania Saefullah;Semarang;COD;Diterima
+31/01/2025;TRX00252;Jaket Hoodie;Fashion;120000;4;480000;R. Omar Lestari;Jakarta;E-Wallet;Dikirim
+12/03/2025;TRX00253;Planner 2025;Lifestyle;35000;2;70000;Kenari Samosir;Semarang;Transfer Bank;Diproses
+06/05/2025;TRX00254;Minyak Aromaterapi;Kesehatan;45000;2;90000;KH. Tirtayasa Wulandari, S.T.;Palembang;Transfer Bank;Diproses
+25/03/2025;TRX00255;Tumbler Stainless;Lifestyle;70000;2;140000;Artanto Gunarto;Palembang;E-Wallet;Diterima
+09/01/2025;TRX00256;Tumbler Stainless;Lifestyle;70000;5;350000;Bagus Mandasari, S.Kom;Surabaya;E-Wallet;Diproses
+19/05/2025;TRX00257;Lip Balm Natural;Kecantikan;29000;2;58000;Dr. Keisha Haryanto;Jakarta;COD;Dikirim
+08/03/2025;TRX00258;Minyak Aromaterapi;Kesehatan;45000;2;90000;Maimunah Nainggolan;Yogyakarta;E-Wallet;Dikirim
+31/05/2025;TRX00259;Lip Balm Natural;Kecantikan;29000;2;58000;Bahuwirya Laksita;Makassar;Transfer Bank;Diproses
+06/06/2025;TRX00260;Planner 2025;Lifestyle;35000;2;70000;Drs. Indah Zulkarnain;Palembang;COD;Dikirim
+02/01/2025;TRX00261;Minyak Aromaterapi;Kesehatan;45000;5;225000;Hani Mangunsong;Jakarta;E-Wallet;Dikirim
+14/03/2025;TRX00262;Planner 2025;Lifestyle;35000;3;105000;Kemal Andriani;Palembang;E-Wallet;Diterima
+17/04/2025;TRX00263;Kaos Oversize;Fashion;85000;5;425000;Victoria Sitorus;Bandung;Transfer Bank;Dikirim
+19/04/2025;TRX00264;Lip Balm Natural;Kecantikan;29000;3;87000;Yoga Santoso;Medan;COD;Dikirim
+29/06/2025;TRX00265;Tumbler Stainless;Lifestyle;70000;3;210000;Mahmud Safitri, S.IP;Bandung;E-Wallet;Diproses
+06/01/2025;TRX00266;Planner 2025;Lifestyle;35000;3;105000;Cut Laila Permadi;Yogyakarta;Transfer Bank;Dikirim
+02/05/2025;TRX00267;Lip Balm Natural;Kecantikan;29000;5;145000;Hamzah Aryani;Bandung;E-Wallet;Diterima
+10/01/2025;TRX00268;Skincare GlowBright;Kecantikan;150000;5;750000;Raharja Wahyuni;Medan;COD;Dikirim
+27/03/2025;TRX00269;Planner 2025;Lifestyle;35000;3;105000;Hasna Halimah;Yogyakarta;Transfer Bank;Dikirim
+24/05/2025;TRX00270;Skincare GlowBright;Kecantikan;150000;1;150000;Cengkal Nuraini, S.Gz;Yogyakarta;Transfer Bank;Diproses
+08/06/2025;TRX00271;Sabun Organik Green;Kesehatan;25000;4;100000;Cahyo Maryadi;Makassar;E-Wallet;Diproses
+23/01/2025;TRX00272;Planner 2025;Lifestyle;35000;1;35000;Tari Manullang;Yogyakarta;COD;Dikirim
+08/02/2025;TRX00273;Headset Wireless;Elektronik;230000;5;1150000;Soleh Saragih;Semarang;COD;Diterima
+24/06/2025;TRX00274;Skincare GlowBright;Kecantikan;150000;2;300000;Puti Keisha Budiman, S.T.;Semarang;COD;Diproses
+12/06/2025;TRX00275;Skincare GlowBright;Kecantikan;150000;2;300000;drg. Qori Suartini, S.Ked;Bandung;Transfer Bank;Diterima
+17/06/2025;TRX00276;Tumbler Stainless;Lifestyle;70000;5;350000;Dian Aryani;Makassar;Transfer Bank;Dikirim
+06/01/2025;TRX00277;Minyak Aromaterapi;Kesehatan;45000;2;90000;Vanesa Hastuti;Semarang;COD;Dikirim
+28/04/2025;TRX00278;Sabun Organik Green;Kesehatan;25000;3;75000;H. Harjo Padmasari, M.TI.;Jakarta;E-Wallet;Diproses
+15/04/2025;TRX00279;Powerbank 10.000mAh;Elektronik;160000;1;160000;dr. Hilda Wijayanti, S.Gz;Surabaya;Transfer Bank;Dikirim
+07/06/2025;TRX00280;Powerbank 10.000mAh;Elektronik;160000;1;160000;Dian Saragih;Medan;E-Wallet;Dikirim
+17/02/2025;TRX00281;Skincare GlowBright;Kecantikan;150000;4;600000;T. Damu Utama, S.Ked;Yogyakarta;COD;Diproses
+28/05/2025;TRX00282;Headset Wireless;Elektronik;230000;5;1150000;drg. Vanesa Waluyo, S.E.I;Jakarta;E-Wallet;Diproses
+01/01/2025;TRX00283;Jaket Hoodie;Fashion;120000;4;480000;Raina Uyainah;Bandung;Transfer Bank;Dikirim
+01/04/2025;TRX00284;Tumbler Stainless;Lifestyle;70000;3;210000;Puti Maya Zulkarnain;Jakarta;E-Wallet;Diproses
+04/03/2025;TRX00285;Kaos Oversize;Fashion;85000;3;255000;Dt. Taufan Prakasa;Yogyakarta;E-Wallet;Diproses
+14/04/2025;TRX00286;Minyak Aromaterapi;Kesehatan;45000;3;135000;Ira Padmasari;Semarang;COD;Diproses
+26/04/2025;TRX00287;Tumbler Stainless;Lifestyle;70000;3;210000;Janet Nababan;Jakarta;E-Wallet;Dikirim
+01/02/2025;TRX00288;Jaket Hoodie;Fashion;120000;4;480000;Cut Wulan Mayasari;Makassar;E-Wallet;Dikirim
+22/01/2025;TRX00289;Planner 2025;Lifestyle;35000;4;140000;H. Tomi Pradipta, S.Ked;Medan;COD;Diproses
+14/06/2025;TRX00290;Headset Wireless;Elektronik;230000;5;1150000;Caturangga Maulana;Bandung;E-Wallet;Dikirim
+07/02/2025;TRX00291;Powerbank 10.000mAh;Elektronik;160000;1;160000;Hj. Fitriani Mayasari, S.Psi;Jakarta;E-Wallet;Diproses
+26/01/2025;TRX00292;Minyak Aromaterapi;Kesehatan;45000;1;45000;Citra Pradana, S.I.Kom;Bandung;Transfer Bank;Dikirim
+18/01/2025;TRX00293;Sabun Organik Green;Kesehatan;25000;1;25000;Dinda Sirait;Makassar;COD;Diterima
+28/06/2025;TRX00294;Powerbank 10.000mAh;Elektronik;160000;2;320000;Narji Padmasari, M.Farm;Jakarta;Transfer Bank;Dikirim
+11/04/2025;TRX00295;Sabun Organik Green;Kesehatan;25000;1;25000;Yani Sitompul;Palembang;Transfer Bank;Diterima
+07/04/2025;TRX00296;Planner 2025;Lifestyle;35000;1;35000;Icha Laksita;Palembang;Transfer Bank;Diproses
+28/05/2025;TRX00297;Sabun Organik Green;Kesehatan;25000;4;100000;Siti Yuliarti, M.TI.;Yogyakarta;E-Wallet;Dikirim
+02/05/2025;TRX00298;Skincare GlowBright;Kecantikan;150000;5;750000;Jamalia Megantara;Palembang;COD;Diproses
+27/01/2025;TRX00299;Lip Balm Natural;Kecantikan;29000;3;87000;Lili Pratiwi;Bandung;Transfer Bank;Diterima
+09/04/2025;TRX00300;Kaos Oversize;Fashion;85000;5;425000;Fitria Sinaga;Bandung;E-Wallet;Diterima
+03/03/2025;TRX00301;Tumbler Stainless;Lifestyle;70000;2;140000;dr. Rini Sitorus, S.I.Kom;Surabaya;Transfer Bank;Dikirim
+04/05/2025;TRX00302;Planner 2025;Lifestyle;35000;5;175000;Cahya Padmasari, S.H.;Medan;COD;Diproses
+18/05/2025;TRX00303;Headset Wireless;Elektronik;230000;4;920000;Cawisadi Ardianto;Jakarta;COD;Diterima
+25/01/2025;TRX00304;Headset Wireless;Elektronik;230000;4;920000;Caket Wahyuni;Palembang;Transfer Bank;Dikirim
+17/06/2025;TRX00305;Lip Balm Natural;Kecantikan;29000;1;29000;Balijan Prabowo;Semarang;COD;Diterima
+05/04/2025;TRX00306;Minyak Aromaterapi;Kesehatan;45000;2;90000;Yusuf Marbun;Surabaya;E-Wallet;Dikirim
+24/01/2025;TRX00307;Jaket Hoodie;Fashion;120000;4;480000;Banawa Maulana;Medan;Transfer Bank;Diproses
+12/03/2025;TRX00308;Powerbank 10.000mAh;Elektronik;160000;4;640000;Lalita Nababan;Surabaya;E-Wallet;Dikirim
+06/03/2025;TRX00309;Minyak Aromaterapi;Kesehatan;45000;3;135000;Murti Palastri, S.IP;Bandung;E-Wallet;Diproses
+24/05/2025;TRX00310;Powerbank 10.000mAh;Elektronik;160000;4;640000;Bagas Mahendra;Surabaya;COD;Dikirim
+06/02/2025;TRX00311;Tumbler Stainless;Lifestyle;70000;2;140000;Mila Tamba;Yogyakarta;Transfer Bank;Diproses
+23/06/2025;TRX00312;Kaos Oversize;Fashion;85000;5;425000;dr. Edison Fujiati, S.Pd;Makassar;E-Wallet;Dikirim
+13/02/2025;TRX00313;Powerbank 10.000mAh;Elektronik;160000;1;160000;Dr. Cemani Adriansyah;Jakarta;Transfer Bank;Dikirim
+21/04/2025;TRX00314;Powerbank 10.000mAh;Elektronik;160000;4;640000;Dartono Pratiwi, M.Farm;Jakarta;Transfer Bank;Diterima
+07/04/2025;TRX00315;Lip Balm Natural;Kecantikan;29000;4;116000;Kezia Hakim;Semarang;E-Wallet;Dikirim
+19/04/2025;TRX00316;Headset Wireless;Elektronik;230000;5;1150000;Virman Irawan;Bandung;COD;Dikirim
+27/02/2025;TRX00317;Minyak Aromaterapi;Kesehatan;45000;2;90000;Daryani Najmudin, S.Pt;Semarang;COD;Dikirim
+26/03/2025;TRX00318;Sabun Organik Green;Kesehatan;25000;5;125000;R.A. Juli Suryono;Medan;Transfer Bank;Diterima
+25/04/2025;TRX00319;Minyak Aromaterapi;Kesehatan;45000;3;135000;Anastasia Waluyo;Yogyakarta;E-Wallet;Diterima
+16/01/2025;TRX00320;Powerbank 10.000mAh;Elektronik;160000;1;160000;Wardi Widiastuti;Bandung;COD;Diterima
+05/04/2025;TRX00321;Minyak Aromaterapi;Kesehatan;45000;5;225000;Emong Marbun;Bandung;E-Wallet;Dikirim
+22/06/2025;TRX00322;Tumbler Stainless;Lifestyle;70000;4;280000;Dr. Daniswara Astuti;Jakarta;Transfer Bank;Dikirim
+02/01/2025;TRX00323;Lip Balm Natural;Kecantikan;29000;1;29000;Dr. Calista Iswahyudi, S.IP;Bandung;COD;Diproses
+23/01/2025;TRX00324;Lip Balm Natural;Kecantikan;29000;4;116000;Bajragin Narpati;Medan;E-Wallet;Diproses
+01/05/2025;TRX00325;Powerbank 10.000mAh;Elektronik;160000;4;640000;Ir. Cinta Nainggolan, S.Pt;Palembang;Transfer Bank;Diproses
+03/03/2025;TRX00326;Tumbler Stainless;Lifestyle;70000;4;280000;Diana Marbun;Surabaya;E-Wallet;Diterima
+08/03/2025;TRX00327;Powerbank 10.000mAh;Elektronik;160000;4;640000;Bakidin Pudjiastuti;Bandung;Transfer Bank;Diproses
+24/05/2025;TRX00328;Planner 2025;Lifestyle;35000;4;140000;Maya Anggriawan, S.Kom;Yogyakarta;Transfer Bank;Dikirim
+26/05/2025;TRX00329;Headset Wireless;Elektronik;230000;5;1150000;Ir. Tari Rahmawati, S.I.Kom;Makassar;Transfer Bank;Dikirim
+02/06/2025;TRX00330;Lip Balm Natural;Kecantikan;29000;5;145000;Tiara Januar, S.E.I;Makassar;Transfer Bank;Diproses
+12/03/2025;TRX00331;Tumbler Stainless;Lifestyle;70000;4;280000;Hj. Ulva Prabowo, S.Gz;Medan;E-Wallet;Dikirim
+03/01/2025;TRX00332;Skincare GlowBright;Kecantikan;150000;4;600000;Wirda Haryanti;Jakarta;E-Wallet;Dikirim
+07/05/2025;TRX00333;Lip Balm Natural;Kecantikan;29000;2;58000;Dr. Pardi Hutapea;Makassar;Transfer Bank;Diproses
+21/02/2025;TRX00334;Jaket Hoodie;Fashion;120000;3;360000;Titin Rajasa, S.Psi;Surabaya;COD;Dikirim
+15/04/2025;TRX00335;Jaket Hoodie;Fashion;120000;3;360000;R.M. Wisnu Gunawan, M.Ak;Semarang;E-Wallet;Diterima
+26/01/2025;TRX00336;Sabun Organik Green;Kesehatan;25000;5;125000;dr. Baktiono Narpati, M.Farm;Bandung;E-Wallet;Diproses
+21/04/2025;TRX00337;Headset Wireless;Elektronik;230000;2;460000;Gangsa Wasita;Yogyakarta;Transfer Bank;Diterima
+28/06/2025;TRX00338;Kaos Oversize;Fashion;85000;4;340000;Gading Purnawati;Medan;Transfer Bank;Diterima
+04/02/2025;TRX00339;Headset Wireless;Elektronik;230000;1;230000;Bella Sirait;Makassar;Transfer Bank;Diterima
+19/01/2025;TRX00340;Sabun Organik Green;Kesehatan;25000;2;50000;Ir. Nasrullah Wacana;Palembang;Transfer Bank;Diterima
+12/02/2025;TRX00341;Jaket Hoodie;Fashion;120000;4;480000;Jamalia Najmudin, S.Kom;Semarang;COD;Diproses
+21/03/2025;TRX00342;Planner 2025;Lifestyle;35000;2;70000;Carla Sitompul;Palembang;Transfer Bank;Dikirim
+06/03/2025;TRX00343;Sabun Organik Green;Kesehatan;25000;1;25000;Ami Permadi;Makassar;E-Wallet;Diproses
+30/04/2025;TRX00344;Tumbler Stainless;Lifestyle;70000;3;210000;H. Adhiarja Padmasari;Medan;E-Wallet;Diproses
+12/03/2025;TRX00345;Planner 2025;Lifestyle;35000;5;175000;Kasim Siregar, S.Pt;Yogyakarta;Transfer Bank;Diproses
+09/04/2025;TRX00346;Minyak Aromaterapi;Kesehatan;45000;3;135000;Jamalia Hartati;Bandung;Transfer Bank;Dikirim
+28/04/2025;TRX00347;Minyak Aromaterapi;Kesehatan;45000;4;180000;Novi Hartati;Bandung;E-Wallet;Diproses
+27/01/2025;TRX00348;Headset Wireless;Elektronik;230000;5;1150000;Najwa Sihotang;Bandung;E-Wallet;Dikirim
+24/05/2025;TRX00349;Powerbank 10.000mAh;Elektronik;160000;4;640000;R.M. Maryadi Andriani, S.Pd;Bandung;Transfer Bank;Diterima
+15/05/2025;TRX00350;Tumbler Stainless;Lifestyle;70000;3;210000;Fitriani Hastuti, S.Pt;Semarang;Transfer Bank;Diterima
+19/04/2025;TRX00351;Jaket Hoodie;Fashion;120000;5;600000;Sabrina Putra, M.Ak;Medan;E-Wallet;Dikirim
+17/04/2025;TRX00352;Headset Wireless;Elektronik;230000;1;230000;Kasiyah Jailani;Semarang;COD;Diterima
+15/06/2025;TRX00353;Jaket Hoodie;Fashion;120000;3;360000;Kusuma Nashiruddin;Medan;COD;Diterima
+27/01/2025;TRX00354;Planner 2025;Lifestyle;35000;1;35000;Rahmi Astuti;Surabaya;E-Wallet;Diproses
+08/01/2025;TRX00355;Sabun Organik Green;Kesehatan;25000;3;75000;Gamblang Firmansyah;Surabaya;E-Wallet;Diproses
+19/06/2025;TRX00356;Sabun Organik Green;Kesehatan;25000;1;25000;Ir. Caturangga Rahayu;Bandung;COD;Dikirim
+13/01/2025;TRX00357;Planner 2025;Lifestyle;35000;3;105000;Gara Siregar;Semarang;E-Wallet;Diterima
+16/05/2025;TRX00358;Headset Wireless;Elektronik;230000;4;920000;Ella Hassanah;Medan;COD;Diproses
+01/04/2025;TRX00359;Sabun Organik Green;Kesehatan;25000;4;100000;Humaira Prastuti, S.T.;Makassar;E-Wallet;Dikirim
+06/02/2025;TRX00360;Tumbler Stainless;Lifestyle;70000;2;140000;Kiandra Wulandari, M.Kom.;Bandung;Transfer Bank;Diterima
+22/01/2025;TRX00361;Minyak Aromaterapi;Kesehatan;45000;5;225000;Estiono Suryatmi;Bandung;COD;Dikirim
+05/06/2025;TRX00362;Minyak Aromaterapi;Kesehatan;45000;5;225000;Drs. Jagapati Nainggolan, S.IP;Bandung;E-Wallet;Dikirim
+10/05/2025;TRX00363;Lip Balm Natural;Kecantikan;29000;3;87000;Zelaya Nainggolan, M.Ak;Jakarta;E-Wallet;Diterima
+15/01/2025;TRX00364;Sabun Organik Green;Kesehatan;25000;4;100000;Farah Hutapea;Palembang;Transfer Bank;Diterima
+15/06/2025;TRX00365;Sabun Organik Green;Kesehatan;25000;2;50000;dr. Tirtayasa Kuswoyo, S.E.;Yogyakarta;E-Wallet;Diterima
+18/03/2025;TRX00366;Lip Balm Natural;Kecantikan;29000;4;116000;Tgk. Hana Mangunsong, M.TI.;Jakarta;E-Wallet;Diproses
+24/05/2025;TRX00367;Tumbler Stainless;Lifestyle;70000;1;70000;Emong Hutapea;Bandung;E-Wallet;Diterima
+03/05/2025;TRX00368;Skincare GlowBright;Kecantikan;150000;1;150000;Lamar Najmudin;Makassar;Transfer Bank;Diproses
+22/04/2025;TRX00369;Kaos Oversize;Fashion;85000;5;425000;Lala Mansur;Semarang;E-Wallet;Diproses
+16/05/2025;TRX00370;Minyak Aromaterapi;Kesehatan;45000;4;180000;Tomi Sinaga;Bandung;Transfer Bank;Diproses
+16/03/2025;TRX00371;Jaket Hoodie;Fashion;120000;5;600000;Sutan Nyoman Pertiwi;Jakarta;COD;Diterima
+22/06/2025;TRX00372;Kaos Oversize;Fashion;85000;4;340000;Jamal Prasasta, M.Pd;Jakarta;COD;Dikirim
+02/06/2025;TRX00373;Powerbank 10.000mAh;Elektronik;160000;4;640000;Hesti Nashiruddin;Yogyakarta;Transfer Bank;Dikirim
+08/02/2025;TRX00374;Lip Balm Natural;Kecantikan;29000;2;58000;Shakila Hutapea;Medan;COD;Dikirim
+01/02/2025;TRX00375;Powerbank 10.000mAh;Elektronik;160000;2;320000;R. Hesti Padmasari, M.Pd;Makassar;E-Wallet;Diproses
+14/04/2025;TRX00376;Minyak Aromaterapi;Kesehatan;45000;3;135000;Betania Salahudin;Bandung;Transfer Bank;Diproses
+13/01/2025;TRX00377;Headset Wireless;Elektronik;230000;2;460000;Almira Padmasari;Medan;E-Wallet;Diproses
+24/01/2025;TRX00378;Jaket Hoodie;Fashion;120000;4;480000;Artanto Prakasa;Medan;Transfer Bank;Dikirim
+22/02/2025;TRX00379;Lip Balm Natural;Kecantikan;29000;3;87000;Gabriella Waluyo;Surabaya;Transfer Bank;Diterima
+07/06/2025;TRX00380;Headset Wireless;Elektronik;230000;3;690000;Ir. Harjo Sihombing;Semarang;E-Wallet;Dikirim
+09/02/2025;TRX00381;Jaket Hoodie;Fashion;120000;4;480000;Zelaya Halimah;Semarang;COD;Diterima
+18/04/2025;TRX00382;Headset Wireless;Elektronik;230000;5;1150000;Ika Sihombing;Palembang;E-Wallet;Diterima
+23/02/2025;TRX00383;Skincare GlowBright;Kecantikan;150000;3;450000;Drs. Aslijan Sihombing;Palembang;COD;Diterima
+03/03/2025;TRX00384;Minyak Aromaterapi;Kesehatan;45000;2;90000;Tania Suryono, S.Farm;Semarang;Transfer Bank;Diproses
+26/04/2025;TRX00385;Powerbank 10.000mAh;Elektronik;160000;4;640000;Jagapati Susanti;Medan;E-Wallet;Diproses
+30/05/2025;TRX00386;Jaket Hoodie;Fashion;120000;4;480000;Jaiman Kuswandari, M.Farm;Medan;Transfer Bank;Diterima
+29/04/2025;TRX00387;Skincare GlowBright;Kecantikan;150000;2;300000;Dt. Bakianto Pradipta;Bandung;COD;Diterima
+17/02/2025;TRX00388;Headset Wireless;Elektronik;230000;4;920000;Jessica Wahyuni, S.Psi;Yogyakarta;COD;Dikirim
+12/05/2025;TRX00389;Sabun Organik Green;Kesehatan;25000;1;25000;Titi Prayoga, S.Pd;Makassar;E-Wallet;Diterima
+23/02/2025;TRX00390;Sabun Organik Green;Kesehatan;25000;2;50000;Rina Firgantoro;Makassar;E-Wallet;Diproses
+07/03/2025;TRX00391;Lip Balm Natural;Kecantikan;29000;4;116000;Endra Pudjiastuti;Yogyakarta;COD;Dikirim
+10/02/2025;TRX00392;Powerbank 10.000mAh;Elektronik;160000;4;640000;Jayeng Situmorang;Makassar;COD;Diterima
+27/05/2025;TRX00393;Kaos Oversize;Fashion;85000;2;170000;Harimurti Purwanti;Bandung;E-Wallet;Diproses
+24/03/2025;TRX00394;Powerbank 10.000mAh;Elektronik;160000;3;480000;Dt. Cahyo Siregar;Palembang;E-Wallet;Dikirim
+20/01/2025;TRX00395;Lip Balm Natural;Kecantikan;29000;4;116000;Saka Manullang;Bandung;Transfer Bank;Dikirim
+10/05/2025;TRX00396;Minyak Aromaterapi;Kesehatan;45000;1;45000;R.A. Jane Maryadi;Bandung;COD;Diterima
+06/04/2025;TRX00397;Lip Balm Natural;Kecantikan;29000;1;29000;Hj. Rahayu Prabowo, S.Sos;Bandung;E-Wallet;Diproses
+22/01/2025;TRX00398;Tumbler Stainless;Lifestyle;70000;4;280000;drg. Gading Haryanto, S.Pt;Yogyakarta;E-Wallet;Diterima
+24/04/2025;TRX00399;Powerbank 10.000mAh;Elektronik;160000;4;640000;Daryani Wahyudin;Semarang;COD;Dikirim
+16/01/2025;TRX00400;Tumbler Stainless;Lifestyle;70000;4;280000;Sutan Jaga Simanjuntak, S.Farm;Makassar;COD;Diproses
+25/03/2025;TRX00401;Minyak Aromaterapi;Kesehatan;45000;2;90000;Michelle Mansur;Palembang;E-Wallet;Dikirim
+27/01/2025;TRX00402;Lip Balm Natural;Kecantikan;29000;3;87000;Maman Maryadi;Jakarta;Transfer Bank;Diterima
+11/06/2025;TRX00403;Sabun Organik Green;Kesehatan;25000;5;125000;Mustofa Yulianti;Medan;COD;Diterima
+06/04/2025;TRX00404;Headset Wireless;Elektronik;230000;2;460000;Lega Padmasari;Palembang;E-Wallet;Diterima
+05/01/2025;TRX00405;Jaket Hoodie;Fashion;120000;4;480000;Najwa Damanik;Palembang;Transfer Bank;Diterima
+14/04/2025;TRX00406;Kaos Oversize;Fashion;85000;2;170000;Dt. Estiawan Suartini, S.IP;Bandung;COD;Diproses
+05/05/2025;TRX00407;Sabun Organik Green;Kesehatan;25000;1;25000;dr. Mila Purnawati;Jakarta;Transfer Bank;Diproses
+02/04/2025;TRX00408;Planner 2025;Lifestyle;35000;4;140000;Dt. Maman Pudjiastuti;Jakarta;Transfer Bank;Diterima
+24/05/2025;TRX00409;Headset Wireless;Elektronik;230000;3;690000;Hj. Ciaobella Tamba, M.TI.;Semarang;Transfer Bank;Dikirim
+08/04/2025;TRX00410;Headset Wireless;Elektronik;230000;3;690000;Paris Napitupulu;Medan;Transfer Bank;Dikirim
+24/02/2025;TRX00411;Headset Wireless;Elektronik;230000;4;920000;Shania Saputra;Medan;Transfer Bank;Diproses
+22/03/2025;TRX00412;Skincare GlowBright;Kecantikan;150000;5;750000;Paulin Rajasa;Jakarta;COD;Diproses
+17/06/2025;TRX00413;Kaos Oversize;Fashion;85000;1;85000;Tiara Nasyiah;Bandung;E-Wallet;Diproses
+02/02/2025;TRX00414;Lip Balm Natural;Kecantikan;29000;4;116000;T. Jabal Mardhiyah, S.Psi;Makassar;COD;Dikirim
+22/04/2025;TRX00415;Lip Balm Natural;Kecantikan;29000;3;87000;dr. Zelaya Nasyidah;Bandung;Transfer Bank;Dikirim
+03/02/2025;TRX00416;Skincare GlowBright;Kecantikan;150000;1;150000;Titi Hartati, S.Farm;Bandung;Transfer Bank;Diproses
+19/01/2025;TRX00417;Powerbank 10.000mAh;Elektronik;160000;4;640000;Sari Tarihoran;Jakarta;COD;Diproses
+25/06/2025;TRX00418;Jaket Hoodie;Fashion;120000;2;240000;Zamira Mulyani;Semarang;Transfer Bank;Diterima
+26/04/2025;TRX00419;Lip Balm Natural;Kecantikan;29000;2;58000;Titin Sitompul;Semarang;E-Wallet;Diterima
+14/01/2025;TRX00420;Planner 2025;Lifestyle;35000;1;35000;T. Heryanto Pangestu;Makassar;E-Wallet;Diterima
+24/05/2025;TRX00421;Skincare GlowBright;Kecantikan;150000;1;150000;Tgk. Embuh Yolanda;Surabaya;Transfer Bank;Dikirim
+06/03/2025;TRX00422;Powerbank 10.000mAh;Elektronik;160000;2;320000;T. Dariati Mangunsong;Semarang;COD;Dikirim
+26/06/2025;TRX00423;Kaos Oversize;Fashion;85000;3;255000;Salman Rajata;Surabaya;Transfer Bank;Dikirim
+11/01/2025;TRX00424;Lip Balm Natural;Kecantikan;29000;1;29000;Syahrini Maulana;Bandung;Transfer Bank;Dikirim
+31/03/2025;TRX00425;Minyak Aromaterapi;Kesehatan;45000;3;135000;Kayun Wahyuni;Jakarta;E-Wallet;Dikirim
+04/04/2025;TRX00426;Jaket Hoodie;Fashion;120000;2;240000;Aris Palastri;Palembang;E-Wallet;Diterima
+03/05/2025;TRX00427;Headset Wireless;Elektronik;230000;4;920000;Elisa Nainggolan;Makassar;E-Wallet;Dikirim
+02/04/2025;TRX00428;Tumbler Stainless;Lifestyle;70000;4;280000;Ir. Uda Rajasa, M.Farm;Semarang;Transfer Bank;Diterima
+16/06/2025;TRX00429;Tumbler Stainless;Lifestyle;70000;4;280000;drg. Lanjar Pratiwi, S.Sos;Makassar;Transfer Bank;Diproses
+05/05/2025;TRX00430;Jaket Hoodie;Fashion;120000;5;600000;Hana Anggraini;Jakarta;E-Wallet;Diproses
+08/01/2025;TRX00431;Tumbler Stainless;Lifestyle;70000;5;350000;Hj. Shakila Handayani, M.Farm;Palembang;E-Wallet;Diproses
+07/01/2025;TRX00432;Minyak Aromaterapi;Kesehatan;45000;4;180000;Viktor Sitorus;Surabaya;Transfer Bank;Dikirim
+18/02/2025;TRX00433;Lip Balm Natural;Kecantikan;29000;5;145000;Drs. Saka Wijaya, S.Ked;Medan;E-Wallet;Diproses
+28/05/2025;TRX00434;Tumbler Stainless;Lifestyle;70000;5;350000;Jagapati Firmansyah;Semarang;E-Wallet;Dikirim
+12/01/2025;TRX00435;Lip Balm Natural;Kecantikan;29000;4;116000;Hj. Gabriella Kusmawati, S.Kom;Surabaya;COD;Diproses
+26/02/2025;TRX00436;Tumbler Stainless;Lifestyle;70000;4;280000;Zalindra Tamba;Jakarta;E-Wallet;Diproses
+25/04/2025;TRX00437;Planner 2025;Lifestyle;35000;5;175000;Adiarja Wibisono;Yogyakarta;COD;Diterima
+20/01/2025;TRX00438;Headset Wireless;Elektronik;230000;1;230000;Upik Sudiati;Medan;COD;Dikirim
+10/04/2025;TRX00439;Sabun Organik Green;Kesehatan;25000;2;50000;Aris Pradipta;Makassar;COD;Diterima
+19/05/2025;TRX00440;Headset Wireless;Elektronik;230000;4;920000;H. Indra Yuliarti;Semarang;COD;Dikirim
+23/01/2025;TRX00441;Jaket Hoodie;Fashion;120000;2;240000;R.A. Puti Suwarno;Jakarta;COD;Diproses
+07/02/2025;TRX00442;Minyak Aromaterapi;Kesehatan;45000;3;135000;dr. Clara Winarno, S.IP;Bandung;Transfer Bank;Diterima
+26/06/2025;TRX00443;Jaket Hoodie;Fashion;120000;1;120000;Laila Saptono;Surabaya;COD;Diterima
+02/01/2025;TRX00444;Tumbler Stainless;Lifestyle;70000;3;210000;Cakrabirawa Hastuti, S.Farm;Medan;E-Wallet;Dikirim
+24/01/2025;TRX00445;Planner 2025;Lifestyle;35000;1;35000;Zelda Yuniar, S.Gz;Yogyakarta;Transfer Bank;Diproses
+09/05/2025;TRX00446;Tumbler Stainless;Lifestyle;70000;1;70000;Dr. Samsul Rahmawati;Jakarta;COD;Dikirim
+10/01/2025;TRX00447;Jaket Hoodie;Fashion;120000;5;600000;Emin Nasyidah;Yogyakarta;COD;Dikirim
+28/06/2025;TRX00448;Planner 2025;Lifestyle;35000;5;175000;Hj. Putri Suryatmi, S.I.Kom;Palembang;COD;Diproses
+02/01/2025;TRX00449;Jaket Hoodie;Fashion;120000;4;480000;Tina Hakim;Semarang;Transfer Bank;Diproses
+27/01/2025;TRX00450;Headset Wireless;Elektronik;230000;3;690000;Ratih Jailani;Bandung;Transfer Bank;Diproses
+08/01/2025;TRX00451;Sabun Organik Green;Kesehatan;25000;1;25000;Danang Zulaika;Palembang;COD;Diterima
+13/04/2025;TRX00452;Headset Wireless;Elektronik;230000;3;690000;Edison Simanjuntak;Yogyakarta;E-Wallet;Dikirim
+21/04/2025;TRX00453;Planner 2025;Lifestyle;35000;5;175000;Luwar Suryono;Makassar;Transfer Bank;Diterima
+09/01/2025;TRX00454;Skincare GlowBright;Kecantikan;150000;4;600000;Ophelia Riyanti, S.Farm;Semarang;E-Wallet;Dikirim
+27/06/2025;TRX00455;Headset Wireless;Elektronik;230000;4;920000;Nabila Waskita;Yogyakarta;COD;Diproses
+28/06/2025;TRX00456;Kaos Oversize;Fashion;85000;5;425000;Manah Prasasta;Surabaya;COD;Diproses
+13/02/2025;TRX00457;Tumbler Stainless;Lifestyle;70000;4;280000;Putri Wahyudin;Jakarta;E-Wallet;Dikirim
+17/05/2025;TRX00458;Headset Wireless;Elektronik;230000;4;920000;R. Nadine Nainggolan;Yogyakarta;Transfer Bank;Diterima
+19/03/2025;TRX00459;Sabun Organik Green;Kesehatan;25000;4;100000;Kania Novitasari;Jakarta;COD;Diproses
+10/05/2025;TRX00460;Powerbank 10.000mAh;Elektronik;160000;2;320000;Bancar Handayani;Palembang;COD;Diproses
+04/03/2025;TRX00461;Headset Wireless;Elektronik;230000;1;230000;Ir. Zamira Dongoran, S.Sos;Semarang;Transfer Bank;Diterima
+19/04/2025;TRX00462;Powerbank 10.000mAh;Elektronik;160000;3;480000;Artanto Purwanti;Medan;Transfer Bank;Diproses
+30/04/2025;TRX00463;Powerbank 10.000mAh;Elektronik;160000;1;160000;Nabila Saptono;Jakarta;Transfer Bank;Diterima
+27/06/2025;TRX00464;Minyak Aromaterapi;Kesehatan;45000;3;135000;Rahman Kurniawan;Yogyakarta;COD;Dikirim
+11/03/2025;TRX00465;Skincare GlowBright;Kecantikan;150000;4;600000;Olivia Haryanto;Palembang;E-Wallet;Dikirim
+24/05/2025;TRX00466;Tumbler Stainless;Lifestyle;70000;3;210000;Dr. Kuncara Nababan;Surabaya;E-Wallet;Diterima
+13/03/2025;TRX00467;Jaket Hoodie;Fashion;120000;1;120000;Yunita Prayoga;Palembang;E-Wallet;Diterima
+04/04/2025;TRX00468;Skincare GlowBright;Kecantikan;150000;4;600000;Daniswara Melani, M.M.;Semarang;Transfer Bank;Diproses
+24/06/2025;TRX00469;Skincare GlowBright;Kecantikan;150000;3;450000;Arsipatra Pertiwi, S.IP;Makassar;COD;Diproses
+01/03/2025;TRX00470;Planner 2025;Lifestyle;35000;5;175000;Jasmani Iswahyudi;Medan;Transfer Bank;Diterima
+28/02/2025;TRX00471;Powerbank 10.000mAh;Elektronik;160000;1;160000;Kamal Rajasa;Yogyakarta;E-Wallet;Diproses
+10/05/2025;TRX00472;Skincare GlowBright;Kecantikan;150000;4;600000;Silvia Halimah, S.E.I;Medan;E-Wallet;Diterima
+02/06/2025;TRX00473;Headset Wireless;Elektronik;230000;3;690000;Tgk. Viman Hasanah;Makassar;E-Wallet;Diterima
+11/04/2025;TRX00474;Minyak Aromaterapi;Kesehatan;45000;3;135000;Gawati Hasanah, M.Ak;Medan;Transfer Bank;Diterima
+11/03/2025;TRX00475;Sabun Organik Green;Kesehatan;25000;5;125000;Dr. Uli Purnawati, M.Kom.;Semarang;E-Wallet;Diterima
+30/05/2025;TRX00476;Kaos Oversize;Fashion;85000;5;425000;Candrakanta Astuti, S.Pt;Bandung;E-Wallet;Diterima
+31/05/2025;TRX00477;Sabun Organik Green;Kesehatan;25000;3;75000;Digdaya Wijayanti;Yogyakarta;COD;Diterima
+31/01/2025;TRX00478;Planner 2025;Lifestyle;35000;4;140000;Zulfa Simanjuntak;Medan;Transfer Bank;Diproses
+04/03/2025;TRX00479;Headset Wireless;Elektronik;230000;3;690000;Cut Hani Halimah, S.Ked;Medan;COD;Diterima
+10/04/2025;TRX00480;Sabun Organik Green;Kesehatan;25000;3;75000;Siska Mandala;Bandung;COD;Diproses
+19/01/2025;TRX00481;Powerbank 10.000mAh;Elektronik;160000;4;640000;Janet Mardhiyah;Medan;Transfer Bank;Diterima
+30/04/2025;TRX00482;Planner 2025;Lifestyle;35000;3;105000;Eman Lazuardi;Makassar;E-Wallet;Dikirim
+17/06/2025;TRX00483;Sabun Organik Green;Kesehatan;25000;1;25000;Diana Megantara;Yogyakarta;Transfer Bank;Diterima
+18/06/2025;TRX00484;Sabun Organik Green;Kesehatan;25000;2;50000;Dalimin Setiawan;Makassar;COD;Dikirim
+11/03/2025;TRX00485;Sabun Organik Green;Kesehatan;25000;4;100000;Karta Prasasta;Semarang;COD;Dikirim
+05/03/2025;TRX00486;Kaos Oversize;Fashion;85000;5;425000;Cut Gawati Gunawan, M.Ak;Yogyakarta;Transfer Bank;Dikirim
+23/05/2025;TRX00487;Lip Balm Natural;Kecantikan;29000;5;145000;Puti Faizah Anggriawan, M.Farm;Surabaya;Transfer Bank;Diproses
+13/01/2025;TRX00488;Tumbler Stainless;Lifestyle;70000;3;210000;Siska Salahudin;Yogyakarta;COD;Dikirim
+24/05/2025;TRX00489;Sabun Organik Green;Kesehatan;25000;3;75000;Lala Anggriawan;Yogyakarta;Transfer Bank;Diproses
+16/02/2025;TRX00490;Minyak Aromaterapi;Kesehatan;45000;2;90000;Dt. Harja Hariyah;Makassar;Transfer Bank;Dikirim
+24/01/2025;TRX00491;Powerbank 10.000mAh;Elektronik;160000;4;640000;Hj. Widya Kuswandari, S.E.;Jakarta;COD;Diproses
+24/04/2025;TRX00492;Jaket Hoodie;Fashion;120000;1;120000;Lembah Pertiwi;Makassar;E-Wallet;Diproses
+10/02/2025;TRX00493;Tumbler Stainless;Lifestyle;70000;2;140000;Narji Kusumo;Yogyakarta;COD;Diproses
+19/06/2025;TRX00494;Lip Balm Natural;Kecantikan;29000;1;29000;Umar Maryati;Makassar;Transfer Bank;Diterima
+08/05/2025;TRX00495;Sabun Organik Green;Kesehatan;25000;1;25000;Gasti Manullang;Semarang;Transfer Bank;Dikirim
+06/02/2025;TRX00496;Lip Balm Natural;Kecantikan;29000;3;87000;Zelaya Simbolon, S.Sos;Makassar;COD;Diterima
+07/05/2025;TRX00497;Planner 2025;Lifestyle;35000;1;35000;Suci Gunawan, S.Kom;Yogyakarta;Transfer Bank;Dikirim
+14/01/2025;TRX00498;Headset Wireless;Elektronik;230000;2;460000;dr. Paramita Anggraini;Jakarta;COD;Diproses
+20/03/2025;TRX00499;Kaos Oversize;Fashion;85000;1;85000;Viman Wasita;Surabaya;E-Wallet;Diterima
+29/06/2025;TRX00500;Tumbler Stainless;Lifestyle;70000;1;70000;Dr. Vero Hasanah, S.E.I;Yogyakarta;Transfer Bank;Diproses
+13/05/2025;TRX00501;Kaos Oversize;Fashion;85000;2;170000;Rika Nasyiah;Palembang;COD;Diproses
+25/04/2025;TRX00502;Tumbler Stainless;Lifestyle;70000;5;350000;Septi Sihotang;Semarang;COD;Dikirim
+12/03/2025;TRX00503;Sabun Organik Green;Kesehatan;25000;2;50000;Dr. Paramita Rahayu, S.Ked;Surabaya;Transfer Bank;Diterima
+09/03/2025;TRX00504;Skincare GlowBright;Kecantikan;150000;4;600000;Yono Putra, S.IP;Bandung;E-Wallet;Diterima
+28/01/2025;TRX00505;Powerbank 10.000mAh;Elektronik;160000;1;160000;Rahayu Rahayu, S.Pt;Surabaya;Transfer Bank;Diterima
+08/06/2025;TRX00506;Sabun Organik Green;Kesehatan;25000;3;75000;Najwa Waskita;Makassar;COD;Diterima
+10/03/2025;TRX00507;Kaos Oversize;Fashion;85000;5;425000;Gangsar Tarihoran;Bandung;COD;Dikirim
+10/03/2025;TRX00508;Minyak Aromaterapi;Kesehatan;45000;1;45000;Artawan Oktaviani;Bandung;COD;Diterima
+06/05/2025;TRX00509;Lip Balm Natural;Kecantikan;29000;5;145000;Septi Latupono, S.Gz;Semarang;COD;Diproses
+04/04/2025;TRX00510;Powerbank 10.000mAh;Elektronik;160000;4;640000;Ophelia Winarsih;Makassar;Transfer Bank;Diterima
+05/02/2025;TRX00511;Lip Balm Natural;Kecantikan;29000;1;29000;Leo Utama;Surabaya;E-Wallet;Diproses
+18/05/2025;TRX00512;Kaos Oversize;Fashion;85000;5;425000;T. Caturangga Namaga;Bandung;COD;Diproses
+05/03/2025;TRX00513;Lip Balm Natural;Kecantikan;29000;4;116000;Suci Novitasari, M.Ak;Makassar;E-Wallet;Diproses
+28/06/2025;TRX00514;Kaos Oversize;Fashion;85000;5;425000;Aslijan Suryatmi;Medan;Transfer Bank;Dikirim
+19/06/2025;TRX00515;Skincare GlowBright;Kecantikan;150000;5;750000;Chandra Yulianti;Semarang;Transfer Bank;Dikirim
+03/01/2025;TRX00516;Kaos Oversize;Fashion;85000;4;340000;Uchita Habibi;Medan;E-Wallet;Diproses
+06/02/2025;TRX00517;Skincare GlowBright;Kecantikan;150000;3;450000;Anastasia Lazuardi;Medan;E-Wallet;Diproses
+20/05/2025;TRX00518;Powerbank 10.000mAh;Elektronik;160000;4;640000;Jessica Yuniar;Medan;COD;Diproses
+29/05/2025;TRX00519;Headset Wireless;Elektronik;230000;3;690000;Salsabila Anggriawan, M.M.;Medan;COD;Diterima
+03/02/2025;TRX00520;Skincare GlowBright;Kecantikan;150000;1;150000;Hj. Yuni Suwarno;Yogyakarta;Transfer Bank;Diterima
+23/01/2025;TRX00521;Minyak Aromaterapi;Kesehatan;45000;3;135000;Soleh Prasasta, S.H.;Palembang;Transfer Bank;Dikirim
+23/06/2025;TRX00522;Kaos Oversize;Fashion;85000;4;340000;Zamira Purwanti;Yogyakarta;Transfer Bank;Dikirim
+12/06/2025;TRX00523;Headset Wireless;Elektronik;230000;2;460000;Sutan Rendy Sihombing, M.M.;Surabaya;E-Wallet;Diterima
+17/05/2025;TRX00524;Lip Balm Natural;Kecantikan;29000;1;29000;Cagak Sihombing, S.Pt;Yogyakarta;Transfer Bank;Diterima
+20/04/2025;TRX00525;Sabun Organik Green;Kesehatan;25000;1;25000;dr. Yuliana Natsir, S.H.;Jakarta;COD;Diproses
+07/03/2025;TRX00526;Planner 2025;Lifestyle;35000;1;35000;Latika Halimah;Bandung;COD;Dikirim
+06/03/2025;TRX00527;Tumbler Stainless;Lifestyle;70000;2;140000;R. Mustofa Putra, S.I.Kom;Yogyakarta;COD;Diproses
+20/05/2025;TRX00528;Jaket Hoodie;Fashion;120000;3;360000;Rina Yulianti;Palembang;E-Wallet;Dikirim
+22/06/2025;TRX00529;Powerbank 10.000mAh;Elektronik;160000;3;480000;Ophelia Nugroho, S.H.;Jakarta;COD;Diproses
+12/03/2025;TRX00530;Minyak Aromaterapi;Kesehatan;45000;5;225000;Restu Halim;Semarang;Transfer Bank;Diterima
+20/06/2025;TRX00531;Powerbank 10.000mAh;Elektronik;160000;4;640000;dr. Lala Haryanto;Makassar;COD;Diterima
+27/02/2025;TRX00532;Sabun Organik Green;Kesehatan;25000;4;100000;Kania Wibisono, S.I.Kom;Yogyakarta;COD;Diproses
+22/02/2025;TRX00533;Headset Wireless;Elektronik;230000;2;460000;Empluk Hastuti;Bandung;Transfer Bank;Diproses
+24/04/2025;TRX00534;Headset Wireless;Elektronik;230000;4;920000;R.A. Winda Tampubolon, S.H.;Makassar;Transfer Bank;Diproses
+29/03/2025;TRX00535;Jaket Hoodie;Fashion;120000;5;600000;Karsa Farida;Yogyakarta;Transfer Bank;Dikirim
+03/06/2025;TRX00536;Lip Balm Natural;Kecantikan;29000;3;87000;Latika Adriansyah;Semarang;E-Wallet;Diproses
+28/06/2025;TRX00537;Powerbank 10.000mAh;Elektronik;160000;1;160000;H. Dagel Thamrin, S.E.I;Makassar;COD;Diproses
+29/01/2025;TRX00538;Minyak Aromaterapi;Kesehatan;45000;5;225000;Malika Latupono, S.Ked;Makassar;COD;Diterima
+27/01/2025;TRX00539;Kaos Oversize;Fashion;85000;4;340000;Dian Utami;Bandung;COD;Diterima
+05/02/2025;TRX00540;Sabun Organik Green;Kesehatan;25000;1;25000;Tania Gunawan, S.I.Kom;Bandung;Transfer Bank;Dikirim
+29/06/2025;TRX00541;Jaket Hoodie;Fashion;120000;4;480000;Asirwanda Tampubolon;Semarang;COD;Diproses
+24/06/2025;TRX00542;Lip Balm Natural;Kecantikan;29000;5;145000;Fitria Permata;Medan;E-Wallet;Dikirim
+29/06/2025;TRX00543;Tumbler Stainless;Lifestyle;70000;5;350000;Uda Palastri, M.TI.;Medan;E-Wallet;Dikirim
+26/01/2025;TRX00544;Tumbler Stainless;Lifestyle;70000;2;140000;Drs. Maryanto Mardhiyah, S.Farm;Semarang;E-Wallet;Diproses
+29/05/2025;TRX00545;Planner 2025;Lifestyle;35000;3;105000;Gilda Namaga, S.I.Kom;Jakarta;COD;Dikirim
+03/02/2025;TRX00546;Powerbank 10.000mAh;Elektronik;160000;5;800000;Aurora Permadi, S.Pd;Jakarta;COD;Diterima
+28/02/2025;TRX00547;Jaket Hoodie;Fashion;120000;3;360000;Bella Sihombing;Yogyakarta;Transfer Bank;Diterima
+11/06/2025;TRX00548;Planner 2025;Lifestyle;35000;5;175000;Dian Saragih;Palembang;COD;Diterima
+11/01/2025;TRX00549;Sabun Organik Green;Kesehatan;25000;2;50000;Mujur Siregar;Medan;E-Wallet;Diterima
+22/02/2025;TRX00550;Tumbler Stainless;Lifestyle;70000;5;350000;Tira Sitompul;Bandung;COD;Diterima
+21/02/2025;TRX00551;Jaket Hoodie;Fashion;120000;4;480000;Dr. Carla Halim;Makassar;COD;Dikirim
+30/04/2025;TRX00552;Lip Balm Natural;Kecantikan;29000;4;116000;Tgk. Olga Permadi;Medan;Transfer Bank;Diproses
+28/01/2025;TRX00553;Minyak Aromaterapi;Kesehatan;45000;1;45000;Omar Mayasari;Palembang;Transfer Bank;Diproses
+10/03/2025;TRX00554;Sabun Organik Green;Kesehatan;25000;1;25000;Novi Novitasari;Semarang;Transfer Bank;Diproses
+11/02/2025;TRX00555;Tumbler Stainless;Lifestyle;70000;3;210000;Daliman Oktaviani;Makassar;COD;Dikirim
+20/03/2025;TRX00556;Kaos Oversize;Fashion;85000;3;255000;Legawa Rahayu;Medan;Transfer Bank;Diproses
+02/05/2025;TRX00557;Kaos Oversize;Fashion;85000;1;85000;Winda Kusumo, S.Kom;Palembang;Transfer Bank;Dikirim
+06/03/2025;TRX00558;Kaos Oversize;Fashion;85000;1;85000;Violet Nainggolan, S.Kom;Jakarta;Transfer Bank;Diproses
+21/05/2025;TRX00559;Headset Wireless;Elektronik;230000;1;230000;drg. Fitria Dongoran, S.T.;Yogyakarta;E-Wallet;Diproses
+03/01/2025;TRX00560;Jaket Hoodie;Fashion;120000;2;240000;Cecep Tamba;Jakarta;COD;Diproses
+07/05/2025;TRX00561;Skincare GlowBright;Kecantikan;150000;1;150000;Rahmi Maheswara;Surabaya;E-Wallet;Dikirim
+17/01/2025;TRX00562;Minyak Aromaterapi;Kesehatan;45000;3;135000;Lalita Suryatmi;Jakarta;COD;Dikirim
+17/04/2025;TRX00563;Tumbler Stainless;Lifestyle;70000;5;350000;Farhunnisa Wibowo, S.Kom;Jakarta;COD;Diproses
+15/01/2025;TRX00564;Sabun Organik Green;Kesehatan;25000;4;100000;Najam Lestari;Medan;Transfer Bank;Dikirim
+04/01/2025;TRX00565;Headset Wireless;Elektronik;230000;5;1150000;Dewi Hutapea, S.Ked;Semarang;Transfer Bank;Diterima
+10/02/2025;TRX00566;Headset Wireless;Elektronik;230000;2;460000;dr. Dirja Kurniawan;Semarang;COD;Diproses
+24/03/2025;TRX00567;Kaos Oversize;Fashion;85000;5;425000;Paulin Kuswandari;Jakarta;E-Wallet;Diproses
+03/05/2025;TRX00568;Planner 2025;Lifestyle;35000;5;175000;Bella Prasetyo;Bandung;COD;Diproses
+24/04/2025;TRX00569;Minyak Aromaterapi;Kesehatan;45000;5;225000;Novi Wahyuni;Medan;E-Wallet;Diterima
+23/03/2025;TRX00570;Sabun Organik Green;Kesehatan;25000;4;100000;Suci Riyanti, S.T.;Palembang;COD;Diproses
+23/04/2025;TRX00571;Headset Wireless;Elektronik;230000;5;1150000;Dr. Mariadi Hutagalung;Semarang;COD;Dikirim
+27/06/2025;TRX00572;Kaos Oversize;Fashion;85000;1;85000;Purwadi Thamrin;Bandung;Transfer Bank;Diterima
+23/03/2025;TRX00573;Headset Wireless;Elektronik;230000;4;920000;Drs. Zulaikha Hidayat, S.Sos;Medan;E-Wallet;Diterima
+10/05/2025;TRX00574;Sabun Organik Green;Kesehatan;25000;1;25000;Maria Safitri, S.I.Kom;Semarang;COD;Diterima
+14/04/2025;TRX00575;Sabun Organik Green;Kesehatan;25000;4;100000;Garan Pranowo;Semarang;COD;Diterima
+24/06/2025;TRX00576;Planner 2025;Lifestyle;35000;2;70000;Ihsan Kusmawati;Yogyakarta;Transfer Bank;Dikirim
+15/06/2025;TRX00577;Minyak Aromaterapi;Kesehatan;45000;5;225000;Ir. Oliva Mulyani;Bandung;Transfer Bank;Dikirim
+17/01/2025;TRX00578;Planner 2025;Lifestyle;35000;1;35000;Dr. Cayadi Riyanti;Semarang;Transfer Bank;Diterima
+08/05/2025;TRX00579;Powerbank 10.000mAh;Elektronik;160000;1;160000;R.M. Kajen Siregar;Yogyakarta;E-Wallet;Diterima
+27/05/2025;TRX00580;Planner 2025;Lifestyle;35000;4;140000;Mulyanto Dongoran, M.M.;Makassar;COD;Dikirim
+28/04/2025;TRX00581;Kaos Oversize;Fashion;85000;1;85000;Atmaja Rahayu;Surabaya;COD;Diproses
+12/06/2025;TRX00582;Planner 2025;Lifestyle;35000;1;35000;Purwanto Dabukke;Yogyakarta;Transfer Bank;Dikirim
+11/05/2025;TRX00583;Jaket Hoodie;Fashion;120000;4;480000;Zelda Permadi;Jakarta;Transfer Bank;Diterima
+11/04/2025;TRX00584;Tumbler Stainless;Lifestyle;70000;3;210000;Bakianto Nasyiah;Medan;Transfer Bank;Diproses
+24/03/2025;TRX00585;Skincare GlowBright;Kecantikan;150000;1;150000;Sutan Ganda Padmasari, M.Farm;Yogyakarta;COD;Diproses
+12/05/2025;TRX00586;Skincare GlowBright;Kecantikan;150000;4;600000;Zulfa Lazuardi;Surabaya;COD;Diterima
+08/02/2025;TRX00587;Sabun Organik Green;Kesehatan;25000;3;75000;Karimah Megantara, M.TI.;Yogyakarta;COD;Diproses
+05/04/2025;TRX00588;Lip Balm Natural;Kecantikan;29000;4;116000;dr. Tania Widiastuti, M.Pd;Jakarta;COD;Dikirim
+01/06/2025;TRX00589;Powerbank 10.000mAh;Elektronik;160000;4;640000;Cut Salsabila Anggraini, S.E.I;Jakarta;COD;Diterima
+20/04/2025;TRX00590;Planner 2025;Lifestyle;35000;3;105000;Setya Lazuardi;Semarang;E-Wallet;Dikirim
+20/01/2025;TRX00591;Headset Wireless;Elektronik;230000;2;460000;Yoga Safitri;Yogyakarta;Transfer Bank;Diproses
+25/01/2025;TRX00592;Powerbank 10.000mAh;Elektronik;160000;4;640000;Harsanto Waskita;Jakarta;E-Wallet;Dikirim
+06/06/2025;TRX00593;Kaos Oversize;Fashion;85000;3;255000;Dr. Umaya Rahimah;Semarang;COD;Dikirim
+16/02/2025;TRX00594;Headset Wireless;Elektronik;230000;3;690000;Nadine Pudjiastuti;Jakarta;E-Wallet;Diproses
+21/02/2025;TRX00595;Skincare GlowBright;Kecantikan;150000;2;300000;Tgk. Jane Siregar;Makassar;COD;Diproses
+21/04/2025;TRX00596;Lip Balm Natural;Kecantikan;29000;5;145000;Dina Purwanti;Yogyakarta;COD;Dikirim
+09/05/2025;TRX00597;Minyak Aromaterapi;Kesehatan;45000;3;135000;Iriana Irawan, M.TI.;Jakarta;COD;Dikirim
+06/04/2025;TRX00598;Planner 2025;Lifestyle;35000;2;70000;Cawisono Ramadan;Surabaya;COD;Diterima
+06/02/2025;TRX00599;Minyak Aromaterapi;Kesehatan;45000;2;90000;Dr. Bakda Haryanti, M.Kom.;Bandung;COD;Dikirim
+19/01/2025;TRX00600;Kaos Oversize;Fashion;85000;5;425000;Uli Andriani;Medan;COD;Dikirim
+31/01/2025;TRX00601;Jaket Hoodie;Fashion;120000;4;480000;Gaduh Handayani;Semarang;E-Wallet;Dikirim
+22/04/2025;TRX00602;Planner 2025;Lifestyle;35000;5;175000;Balamantri Sihombing;Yogyakarta;Transfer Bank;Diproses
+07/05/2025;TRX00603;Headset Wireless;Elektronik;230000;5;1150000;Maya Sihombing, M.Ak;Medan;E-Wallet;Diproses
+06/02/2025;TRX00604;Jaket Hoodie;Fashion;120000;5;600000;Drs. Zelaya Utami;Semarang;E-Wallet;Diproses
+11/01/2025;TRX00605;Tumbler Stainless;Lifestyle;70000;2;140000;drg. Karen Pangestu, S.Psi;Semarang;Transfer Bank;Diterima
+04/01/2025;TRX00606;Skincare GlowBright;Kecantikan;150000;5;750000;H. Marwata Wulandari;Bandung;Transfer Bank;Diterima
+04/02/2025;TRX00607;Minyak Aromaterapi;Kesehatan;45000;4;180000;Zalindra Marpaung, M.Pd;Palembang;E-Wallet;Diterima
+20/04/2025;TRX00608;Tumbler Stainless;Lifestyle;70000;4;280000;Embuh Haryanti, S.H.;Yogyakarta;Transfer Bank;Diproses
+05/02/2025;TRX00609;Jaket Hoodie;Fashion;120000;4;480000;Ir. Galur Maheswara;Palembang;E-Wallet;Dikirim
+14/01/2025;TRX00610;Planner 2025;Lifestyle;35000;5;175000;Dalimin Nainggolan;Semarang;E-Wallet;Diproses
+21/05/2025;TRX00611;Planner 2025;Lifestyle;35000;4;140000;Rangga Suryatmi;Semarang;Transfer Bank;Dikirim
+01/06/2025;TRX00612;Minyak Aromaterapi;Kesehatan;45000;1;45000;Calista Lazuardi;Medan;Transfer Bank;Diproses
+21/03/2025;TRX00613;Skincare GlowBright;Kecantikan;150000;3;450000;Rahman Susanti;Makassar;E-Wallet;Diterima
+20/06/2025;TRX00614;Headset Wireless;Elektronik;230000;2;460000;R.M. Akarsana Novitasari;Semarang;COD;Diproses
+22/04/2025;TRX00615;Headset Wireless;Elektronik;230000;4;920000;Tirta Maheswara;Surabaya;E-Wallet;Diproses
+23/05/2025;TRX00616;Powerbank 10.000mAh;Elektronik;160000;2;320000;drg. Paris Kusmawati;Semarang;COD;Diproses
+25/06/2025;TRX00617;Tumbler Stainless;Lifestyle;70000;3;210000;Hj. Diana Kusumo;Surabaya;COD;Diterima
+21/06/2025;TRX00618;Jaket Hoodie;Fashion;120000;1;120000;Pia Kuswoyo;Surabaya;Transfer Bank;Diterima
+05/03/2025;TRX00619;Kaos Oversize;Fashion;85000;2;170000;Gabriella Mahendra;Bandung;E-Wallet;Diproses
+17/04/2025;TRX00620;Sabun Organik Green;Kesehatan;25000;5;125000;dr. Dina Hardiansyah;Makassar;COD;Dikirim
+02/06/2025;TRX00621;Powerbank 10.000mAh;Elektronik;160000;5;800000;Eman Hassanah;Palembang;E-Wallet;Diproses
+05/03/2025;TRX00622;Tumbler Stainless;Lifestyle;70000;4;280000;Usyi Nasyidah;Makassar;Transfer Bank;Diterima
+06/03/2025;TRX00623;Kaos Oversize;Fashion;85000;3;255000;Sadina Kusmawati;Semarang;COD;Dikirim
+06/02/2025;TRX00624;Sabun Organik Green;Kesehatan;25000;5;125000;Bakianto Budiyanto, S.Gz;Bandung;COD;Diterima
+26/04/2025;TRX00625;Tumbler Stainless;Lifestyle;70000;5;350000;drg. Candrakanta Pratiwi;Medan;E-Wallet;Diterima
+07/01/2025;TRX00626;Planner 2025;Lifestyle;35000;3;105000;Emil Lailasari;Jakarta;E-Wallet;Diterima
+10/03/2025;TRX00627;Jaket Hoodie;Fashion;120000;4;480000;Rendy Riyanti;Surabaya;COD;Diterima
+12/03/2025;TRX00628;Minyak Aromaterapi;Kesehatan;45000;3;135000;R.A. Betania Safitri, S.Kom;Surabaya;Transfer Bank;Diproses
+30/05/2025;TRX00629;Powerbank 10.000mAh;Elektronik;160000;4;640000;Abyasa Simbolon;Semarang;COD;Diterima
+15/01/2025;TRX00630;Skincare GlowBright;Kecantikan;150000;3;450000;Dr. Irma Hidayat;Jakarta;Transfer Bank;Dikirim
+07/02/2025;TRX00631;Powerbank 10.000mAh;Elektronik;160000;2;320000;R. Pandu Hastuti, S.Farm;Yogyakarta;E-Wallet;Diterima
+03/06/2025;TRX00632;Powerbank 10.000mAh;Elektronik;160000;4;640000;Qori Melani;Surabaya;E-Wallet;Diterima
+11/04/2025;TRX00633;Skincare GlowBright;Kecantikan;150000;3;450000;Hj. Humaira Usamah;Semarang;Transfer Bank;Diproses
+31/03/2025;TRX00634;Tumbler Stainless;Lifestyle;70000;4;280000;Yessi Andriani;Medan;E-Wallet;Dikirim
+19/01/2025;TRX00635;Sabun Organik Green;Kesehatan;25000;5;125000;Tania Hidayat;Semarang;E-Wallet;Diproses
+12/04/2025;TRX00636;Skincare GlowBright;Kecantikan;150000;1;150000;Michelle Agustina;Palembang;Transfer Bank;Dikirim
+23/01/2025;TRX00637;Powerbank 10.000mAh;Elektronik;160000;2;320000;R.A. Gawati Budiyanto;Makassar;COD;Dikirim
+04/03/2025;TRX00638;Powerbank 10.000mAh;Elektronik;160000;2;320000;Bakda Gunarto, S.E.I;Bandung;E-Wallet;Diproses
+06/04/2025;TRX00639;Planner 2025;Lifestyle;35000;1;35000;Ulva Marpaung;Jakarta;COD;Dikirim
+18/01/2025;TRX00640;Sabun Organik Green;Kesehatan;25000;4;100000;Jail Hassanah;Surabaya;E-Wallet;Diproses
+10/01/2025;TRX00641;Skincare GlowBright;Kecantikan;150000;3;450000;drg. Aswani Hartati, M.Pd;Surabaya;Transfer Bank;Diterima
+17/03/2025;TRX00642;Lip Balm Natural;Kecantikan;29000;2;58000;Citra Haryanti;Bandung;Transfer Bank;Dikirim
+18/03/2025;TRX00643;Planner 2025;Lifestyle;35000;4;140000;Dr. Olga Simbolon, M.Ak;Surabaya;E-Wallet;Diproses
+14/06/2025;TRX00644;Sabun Organik Green;Kesehatan;25000;3;75000;Ade Firmansyah;Palembang;COD;Diproses
+08/05/2025;TRX00645;Kaos Oversize;Fashion;85000;4;340000;Cut Carla Hartati, S.E.I;Jakarta;Transfer Bank;Diterima
+03/06/2025;TRX00646;Tumbler Stainless;Lifestyle;70000;2;140000;Balamantri Prasetyo;Semarang;E-Wallet;Diproses
+16/01/2025;TRX00647;Powerbank 10.000mAh;Elektronik;160000;3;480000;Vanesa Astuti;Jakarta;Transfer Bank;Diproses
+15/06/2025;TRX00648;Skincare GlowBright;Kecantikan;150000;5;750000;Ir. Vivi Riyanti, M.Farm;Surabaya;E-Wallet;Diterima
+25/01/2025;TRX00649;Lip Balm Natural;Kecantikan;29000;5;145000;Narji Hidayat;Semarang;COD;Diterima
+25/06/2025;TRX00650;Jaket Hoodie;Fashion;120000;2;240000;Sutan Makuta Saragih, S.Gz;Jakarta;E-Wallet;Dikirim
+04/01/2025;TRX00651;Tumbler Stainless;Lifestyle;70000;2;140000;Saka Salahudin, S.Kom;Surabaya;Transfer Bank;Dikirim
+05/02/2025;TRX00652;Skincare GlowBright;Kecantikan;150000;4;600000;Vanesa Saptono, S.Gz;Surabaya;Transfer Bank;Diterima
+08/04/2025;TRX00653;Kaos Oversize;Fashion;85000;3;255000;Emin Prasetyo;Semarang;COD;Diterima
+13/05/2025;TRX00654;Powerbank 10.000mAh;Elektronik;160000;1;160000;Elvina Wahyudin;Jakarta;Transfer Bank;Diterima
+13/01/2025;TRX00655;Minyak Aromaterapi;Kesehatan;45000;1;45000;Sutan Maryadi Hakim;Bandung;COD;Diproses
+27/05/2025;TRX00656;Minyak Aromaterapi;Kesehatan;45000;1;45000;Warsa Utama, S.H.;Surabaya;E-Wallet;Dikirim
+19/01/2025;TRX00657;Minyak Aromaterapi;Kesehatan;45000;5;225000;Mutia Uwais;Semarang;COD;Diproses
+22/03/2025;TRX00658;Headset Wireless;Elektronik;230000;1;230000;Rahmi Sinaga, S.IP;Semarang;COD;Diproses
+10/01/2025;TRX00659;Planner 2025;Lifestyle;35000;2;70000;Puput Napitupulu;Jakarta;Transfer Bank;Diproses
+08/01/2025;TRX00660;Kaos Oversize;Fashion;85000;2;170000;Capa Rahayu;Medan;Transfer Bank;Diproses
+17/02/2025;TRX00661;Headset Wireless;Elektronik;230000;4;920000;Ganjaran Mandala;Yogyakarta;Transfer Bank;Diproses
+25/04/2025;TRX00662;Powerbank 10.000mAh;Elektronik;160000;1;160000;Tgk. Fitriani Haryanto;Jakarta;E-Wallet;Dikirim
+19/04/2025;TRX00663;Lip Balm Natural;Kecantikan;29000;1;29000;Cut Agnes Lailasari;Bandung;COD;Dikirim
+06/01/2025;TRX00664;Kaos Oversize;Fashion;85000;3;255000;R.A. Elma Irawan;Surabaya;COD;Diterima
+15/06/2025;TRX00665;Planner 2025;Lifestyle;35000;3;105000;Umay Suryatmi;Bandung;E-Wallet;Diproses
+19/05/2025;TRX00666;Minyak Aromaterapi;Kesehatan;45000;4;180000;Eluh Habibi;Makassar;E-Wallet;Diproses
+13/01/2025;TRX00667;Sabun Organik Green;Kesehatan;25000;4;100000;Queen Padmasari;Semarang;E-Wallet;Diproses
+19/01/2025;TRX00668;Kaos Oversize;Fashion;85000;3;255000;H. Gandi Rahimah, M.M.;Surabaya;COD;Dikirim
+07/06/2025;TRX00669;Sabun Organik Green;Kesehatan;25000;2;50000;Cut Pia Januar;Surabaya;COD;Diterima
+09/02/2025;TRX00670;Tumbler Stainless;Lifestyle;70000;1;70000;Puti Zalindra Laksmiwati;Jakarta;E-Wallet;Diproses
+26/01/2025;TRX00671;Headset Wireless;Elektronik;230000;1;230000;drg. Ibrani Lailasari, M.Kom.;Makassar;COD;Diproses
+11/05/2025;TRX00672;Skincare GlowBright;Kecantikan;150000;5;750000;H. Ajimat Dabukke;Bandung;Transfer Bank;Diterima
+03/04/2025;TRX00673;Tumbler Stainless;Lifestyle;70000;5;350000;Uchita Sihotang;Yogyakarta;Transfer Bank;Diterima
+30/05/2025;TRX00674;Lip Balm Natural;Kecantikan;29000;3;87000;Yani Iswahyudi;Surabaya;Transfer Bank;Dikirim
+02/04/2025;TRX00675;Jaket Hoodie;Fashion;120000;3;360000;Muhammad Zulkarnain;Makassar;Transfer Bank;Diproses
+10/05/2025;TRX00676;Planner 2025;Lifestyle;35000;4;140000;Emin Hakim;Surabaya;Transfer Bank;Dikirim
+04/03/2025;TRX00677;Skincare GlowBright;Kecantikan;150000;4;600000;Rusman Nuraini;Makassar;Transfer Bank;Diterima
+02/05/2025;TRX00678;Headset Wireless;Elektronik;230000;5;1150000;Dt. Marsito Kusmawati;Surabaya;COD;Diproses
+13/03/2025;TRX00679;Jaket Hoodie;Fashion;120000;4;480000;Ghani Prayoga;Semarang;Transfer Bank;Diterima
+12/05/2025;TRX00680;Skincare GlowBright;Kecantikan;150000;1;150000;Vanesa Hartati;Medan;E-Wallet;Diterima
+21/01/2025;TRX00681;Kaos Oversize;Fashion;85000;2;170000;Bakda Mustofa;Palembang;COD;Diproses
+08/06/2025;TRX00682;Sabun Organik Green;Kesehatan;25000;3;75000;Hartaka Waluyo;Bandung;COD;Diproses
+10/05/2025;TRX00683;Sabun Organik Green;Kesehatan;25000;3;75000;Drs. Mala Wastuti, S.T.;Palembang;E-Wallet;Diterima
+28/01/2025;TRX00684;Kaos Oversize;Fashion;85000;5;425000;drg. Nurul Riyanti;Semarang;E-Wallet;Dikirim
+02/04/2025;TRX00685;Lip Balm Natural;Kecantikan;29000;1;29000;Drs. Sari Mardhiyah, M.Kom.;Medan;Transfer Bank;Diterima
+25/05/2025;TRX00686;Headset Wireless;Elektronik;230000;3;690000;Patricia Winarsih, M.Ak;Jakarta;COD;Dikirim
+10/02/2025;TRX00687;Kaos Oversize;Fashion;85000;4;340000;Nova Mulyani, S.IP;Bandung;Transfer Bank;Dikirim
+28/02/2025;TRX00688;Sabun Organik Green;Kesehatan;25000;2;50000;Ajimat Prabowo, S.E.;Semarang;E-Wallet;Diproses
+12/01/2025;TRX00689;Sabun Organik Green;Kesehatan;25000;4;100000;Ade Laksita;Bandung;COD;Diterima
+23/06/2025;TRX00690;Jaket Hoodie;Fashion;120000;5;600000;Kamidin Firgantoro, S.Psi;Yogyakarta;Transfer Bank;Dikirim
+10/01/2025;TRX00691;Tumbler Stainless;Lifestyle;70000;4;280000;R. Puji Handayani;Jakarta;COD;Diterima
+25/01/2025;TRX00692;Planner 2025;Lifestyle;35000;2;70000;Salsabila Prasasta;Jakarta;COD;Diproses
+18/06/2025;TRX00693;Headset Wireless;Elektronik;230000;2;460000;Laras Setiawan;Medan;E-Wallet;Dikirim
+29/04/2025;TRX00694;Powerbank 10.000mAh;Elektronik;160000;1;160000;Latika Usada;Makassar;COD;Diterima
+09/03/2025;TRX00695;Kaos Oversize;Fashion;85000;3;255000;Garang Utama;Bandung;E-Wallet;Dikirim
+24/04/2025;TRX00696;Sabun Organik Green;Kesehatan;25000;1;25000;KH. Marsudi Hastuti;Makassar;Transfer Bank;Dikirim
+16/03/2025;TRX00697;Kaos Oversize;Fashion;85000;1;85000;Aswani Agustina, M.TI.;Yogyakarta;Transfer Bank;Diproses
+13/05/2025;TRX00698;Kaos Oversize;Fashion;85000;1;85000;Harimurti Wasita, S.T.;Yogyakarta;COD;Diproses
+21/05/2025;TRX00699;Jaket Hoodie;Fashion;120000;2;240000;Ella Setiawan, M.TI.;Surabaya;E-Wallet;Diproses
+13/04/2025;TRX00700;Planner 2025;Lifestyle;35000;3;105000;drg. Samiah Maryadi;Jakarta;Transfer Bank;Diterima
+16/06/2025;TRX00701;Headset Wireless;Elektronik;230000;5;1150000;dr. Ami Samosir;Medan;E-Wallet;Dikirim
+09/01/2025;TRX00702;Lip Balm Natural;Kecantikan;29000;4;116000;Ir. Puput Wacana, M.Kom.;Surabaya;Transfer Bank;Diterima
+01/05/2025;TRX00703;Lip Balm Natural;Kecantikan;29000;5;145000;Rahmat Maryati;Palembang;COD;Dikirim
+26/04/2025;TRX00704;Planner 2025;Lifestyle;35000;2;70000;R.A. Rahmi Wijaya;Jakarta;COD;Diterima
+12/05/2025;TRX00705;Jaket Hoodie;Fashion;120000;2;240000;R.M. Jail Salahudin, S.Pt;Semarang;Transfer Bank;Diterima
+30/01/2025;TRX00706;Minyak Aromaterapi;Kesehatan;45000;4;180000;Mala Sitompul;Semarang;COD;Dikirim
+27/04/2025;TRX00707;Planner 2025;Lifestyle;35000;1;35000;Prabu Mardhiyah;Makassar;E-Wallet;Diproses
+31/03/2025;TRX00708;Skincare GlowBright;Kecantikan;150000;2;300000;Gabriella Astuti;Jakarta;COD;Dikirim
+26/01/2025;TRX00709;Tumbler Stainless;Lifestyle;70000;4;280000;Safina Iswahyudi;Bandung;COD;Diterima
+29/01/2025;TRX00710;Jaket Hoodie;Fashion;120000;4;480000;Putri Zulkarnain, S.Ked;Makassar;Transfer Bank;Diproses
+20/05/2025;TRX00711;Kaos Oversize;Fashion;85000;3;255000;Usyi Nugroho, S.I.Kom;Surabaya;E-Wallet;Diproses
+21/01/2025;TRX00712;Minyak Aromaterapi;Kesehatan;45000;4;180000;dr. Tirta Aryani;Bandung;COD;Diterima
+06/04/2025;TRX00713;Sabun Organik Green;Kesehatan;25000;4;100000;Drs. Titin Saptono, M.M.;Jakarta;Transfer Bank;Diproses
+02/05/2025;TRX00714;Jaket Hoodie;Fashion;120000;5;600000;Betania Hassanah;Makassar;E-Wallet;Dikirim
+29/06/2025;TRX00715;Minyak Aromaterapi;Kesehatan;45000;1;45000;Bahuwirya Handayani;Medan;Transfer Bank;Diproses
+05/04/2025;TRX00716;Jaket Hoodie;Fashion;120000;5;600000;Ismail Maryadi;Semarang;COD;Diproses
+09/06/2025;TRX00717;Planner 2025;Lifestyle;35000;1;35000;Tgk. Farah Prasasta;Semarang;COD;Diterima
+03/03/2025;TRX00718;Headset Wireless;Elektronik;230000;2;460000;Danuja Suartini;Medan;Transfer Bank;Dikirim
+17/06/2025;TRX00719;Jaket Hoodie;Fashion;120000;4;480000;Oman Lazuardi, S.Gz;Medan;E-Wallet;Diproses
+11/05/2025;TRX00720;Sabun Organik Green;Kesehatan;25000;4;100000;Dalimin Habibi;Surabaya;COD;Diterima
+27/01/2025;TRX00721;Sabun Organik Green;Kesehatan;25000;3;75000;Puji Latupono;Medan;Transfer Bank;Diproses
+10/02/2025;TRX00722;Headset Wireless;Elektronik;230000;3;690000;Kamaria Sudiati;Bandung;E-Wallet;Diterima
+14/01/2025;TRX00723;Powerbank 10.000mAh;Elektronik;160000;1;160000;Soleh Farida, S.Sos;Makassar;Transfer Bank;Diterima
+26/06/2025;TRX00724;Kaos Oversize;Fashion;85000;2;170000;Puspa Anggriawan;Surabaya;E-Wallet;Diproses
+04/06/2025;TRX00725;Headset Wireless;Elektronik;230000;5;1150000;Karen Situmorang;Palembang;Transfer Bank;Diterima
+25/05/2025;TRX00726;Lip Balm Natural;Kecantikan;29000;5;145000;R.A. Zahra Suryono, M.Farm;Bandung;E-Wallet;Diterima
+24/02/2025;TRX00727;Tumbler Stainless;Lifestyle;70000;1;70000;Indah Sitompul;Jakarta;Transfer Bank;Diterima
+02/02/2025;TRX00728;Powerbank 10.000mAh;Elektronik;160000;4;640000;Cakrabirawa Jailani;Makassar;COD;Dikirim
+16/03/2025;TRX00729;Planner 2025;Lifestyle;35000;3;105000;Usyi Sihombing;Makassar;Transfer Bank;Diterima
+26/06/2025;TRX00730;Lip Balm Natural;Kecantikan;29000;4;116000;Bala Salahudin;Semarang;Transfer Bank;Diproses
+16/06/2025;TRX00731;Headset Wireless;Elektronik;230000;5;1150000;Dr. Baktiono Tarihoran;Palembang;E-Wallet;Dikirim
+07/01/2025;TRX00732;Lip Balm Natural;Kecantikan;29000;1;29000;Zaenab Puspita, S.T.;Makassar;E-Wallet;Diterima
+04/03/2025;TRX00733;Skincare GlowBright;Kecantikan;150000;4;600000;Tgk. Tantri Tamba, S.Gz;Surabaya;COD;Diterima
+11/04/2025;TRX00734;Kaos Oversize;Fashion;85000;3;255000;Drs. Kurnia Wasita;Palembang;Transfer Bank;Diproses
+07/01/2025;TRX00735;Skincare GlowBright;Kecantikan;150000;3;450000;Ir. Tantri Anggraini;Bandung;Transfer Bank;Diproses
+06/06/2025;TRX00736;Kaos Oversize;Fashion;85000;5;425000;Bagus Palastri;Palembang;COD;Dikirim
+01/06/2025;TRX00737;Sabun Organik Green;Kesehatan;25000;5;125000;Karimah Prakasa, S.Farm;Makassar;COD;Dikirim
+17/03/2025;TRX00738;Minyak Aromaterapi;Kesehatan;45000;3;135000;Pia Puspita, S.Psi;Palembang;COD;Diterima
+30/05/2025;TRX00739;Kaos Oversize;Fashion;85000;3;255000;drg. Bakijan Waluyo, S.T.;Bandung;E-Wallet;Dikirim
+13/05/2025;TRX00740;Jaket Hoodie;Fashion;120000;1;120000;Queen Nuraini, M.Pd;Yogyakarta;Transfer Bank;Diproses
+01/01/2025;TRX00741;Kaos Oversize;Fashion;85000;5;425000;dr. Harimurti Marpaung, S.T.;Semarang;Transfer Bank;Dikirim
+14/04/2025;TRX00742;Lip Balm Natural;Kecantikan;29000;2;58000;R. Yoga Farida, S.Gz;Medan;COD;Diproses
+27/04/2025;TRX00743;Planner 2025;Lifestyle;35000;2;70000;Legawa Wacana;Surabaya;E-Wallet;Diproses
+18/06/2025;TRX00744;Kaos Oversize;Fashion;85000;3;255000;Cengkal Pradipta;Yogyakarta;E-Wallet;Diterima
+17/04/2025;TRX00745;Planner 2025;Lifestyle;35000;5;175000;Suci Sitorus;Yogyakarta;Transfer Bank;Diproses
+16/03/2025;TRX00746;Planner 2025;Lifestyle;35000;1;35000;Harsana Prakasa;Surabaya;Transfer Bank;Dikirim
+27/02/2025;TRX00747;Skincare GlowBright;Kecantikan;150000;3;450000;Marsito Sirait;Medan;E-Wallet;Dikirim
+14/03/2025;TRX00748;Skincare GlowBright;Kecantikan;150000;2;300000;Hj. Amelia Fujiati;Jakarta;Transfer Bank;Diterima
+05/05/2025;TRX00749;Jaket Hoodie;Fashion;120000;2;240000;Bahuraksa Nashiruddin;Semarang;E-Wallet;Dikirim
+20/05/2025;TRX00750;Jaket Hoodie;Fashion;120000;5;600000;Mustika Namaga;Yogyakarta;Transfer Bank;Dikirim
+19/03/2025;TRX00751;Sabun Organik Green;Kesehatan;25000;4;100000;Lala Megantara;Medan;COD;Diterima
+10/01/2025;TRX00752;Powerbank 10.000mAh;Elektronik;160000;2;320000;Hani Mansur;Jakarta;COD;Dikirim
+29/05/2025;TRX00753;Headset Wireless;Elektronik;230000;2;460000;Dr. Anggabaya Anggraini;Jakarta;Transfer Bank;Diterima
+09/05/2025;TRX00754;Skincare GlowBright;Kecantikan;150000;2;300000;Tira Habibi;Medan;E-Wallet;Dikirim
+26/06/2025;TRX00755;Planner 2025;Lifestyle;35000;3;105000;Jaga Nashiruddin;Jakarta;Transfer Bank;Dikirim
+02/01/2025;TRX00756;Headset Wireless;Elektronik;230000;5;1150000;Yessi Wibisono;Makassar;COD;Diproses
+21/04/2025;TRX00757;Headset Wireless;Elektronik;230000;5;1150000;Hj. Elisa Palastri, S.Sos;Palembang;COD;Diproses
+29/05/2025;TRX00758;Sabun Organik Green;Kesehatan;25000;3;75000;R. Umi Rahayu;Jakarta;Transfer Bank;Diproses
+02/01/2025;TRX00759;Jaket Hoodie;Fashion;120000;1;120000;Gilda Nurdiyanti;Medan;E-Wallet;Dikirim
+10/01/2025;TRX00760;Jaket Hoodie;Fashion;120000;4;480000;Cengkir Palastri;Semarang;Transfer Bank;Diterima
+26/04/2025;TRX00761;Tumbler Stainless;Lifestyle;70000;3;210000;Fitriani Kuswandari, S.Gz;Palembang;COD;Dikirim
+28/01/2025;TRX00762;Minyak Aromaterapi;Kesehatan;45000;2;90000;Septi Mardhiyah;Palembang;Transfer Bank;Dikirim
+18/01/2025;TRX00763;Lip Balm Natural;Kecantikan;29000;3;87000;Upik Usada;Medan;E-Wallet;Dikirim
+27/04/2025;TRX00764;Skincare GlowBright;Kecantikan;150000;5;750000;Tiara Mardhiyah;Bandung;Transfer Bank;Diterima
+07/01/2025;TRX00765;Sabun Organik Green;Kesehatan;25000;5;125000;Jasmin Sudiati;Semarang;E-Wallet;Dikirim
+04/06/2025;TRX00766;Sabun Organik Green;Kesehatan;25000;5;125000;Drs. Prayoga Hartati;Makassar;Transfer Bank;Diproses
+13/06/2025;TRX00767;Minyak Aromaterapi;Kesehatan;45000;4;180000;Dariati Putra;Bandung;COD;Dikirim
+17/02/2025;TRX00768;Headset Wireless;Elektronik;230000;5;1150000;Ir. Oliva Aryani, S.Kom;Surabaya;E-Wallet;Dikirim
+19/05/2025;TRX00769;Sabun Organik Green;Kesehatan;25000;3;75000;Winda Firgantoro;Jakarta;E-Wallet;Diterima
+30/03/2025;TRX00770;Tumbler Stainless;Lifestyle;70000;4;280000;R.A. Tania Handayani;Surabaya;Transfer Bank;Dikirim
+11/02/2025;TRX00771;Headset Wireless;Elektronik;230000;2;460000;Cinta Marbun;Semarang;E-Wallet;Diproses
+16/06/2025;TRX00772;Planner 2025;Lifestyle;35000;5;175000;Ir. Maida Namaga, S.Sos;Semarang;E-Wallet;Diterima
+28/06/2025;TRX00773;Jaket Hoodie;Fashion;120000;1;120000;Tasdik Adriansyah;Medan;E-Wallet;Diterima
+21/06/2025;TRX00774;Tumbler Stainless;Lifestyle;70000;2;140000;Widya Hutapea;Semarang;Transfer Bank;Dikirim
+23/06/2025;TRX00775;Powerbank 10.000mAh;Elektronik;160000;5;800000;R.A. Ella Fujiati;Medan;COD;Diproses
+16/02/2025;TRX00776;Headset Wireless;Elektronik;230000;4;920000;Tgk. Novi Sihombing;Surabaya;COD;Diterima
+15/05/2025;TRX00777;Powerbank 10.000mAh;Elektronik;160000;2;320000;Tira Mandala, S.I.Kom;Jakarta;E-Wallet;Dikirim
+24/01/2025;TRX00778;Lip Balm Natural;Kecantikan;29000;4;116000;Kemal Melani;Yogyakarta;E-Wallet;Diterima
+21/06/2025;TRX00779;Planner 2025;Lifestyle;35000;2;70000;Salwa Adriansyah;Bandung;E-Wallet;Diterima
+09/06/2025;TRX00780;Lip Balm Natural;Kecantikan;29000;1;29000;Cawuk Siregar;Surabaya;E-Wallet;Diproses
+31/01/2025;TRX00781;Jaket Hoodie;Fashion;120000;2;240000;Empluk Palastri, S.Ked;Palembang;COD;Dikirim
+01/06/2025;TRX00782;Planner 2025;Lifestyle;35000;2;70000;Balijan Prasetya, M.M.;Jakarta;E-Wallet;Diterima
+10/03/2025;TRX00783;Lip Balm Natural;Kecantikan;29000;3;87000;T. Gandi Prayoga, S.IP;Semarang;COD;Diproses
+02/05/2025;TRX00784;Jaket Hoodie;Fashion;120000;3;360000;Lalita Utama;Jakarta;Transfer Bank;Diterima
+30/04/2025;TRX00785;Jaket Hoodie;Fashion;120000;3;360000;Carla Hutapea;Jakarta;Transfer Bank;Diterima
+21/06/2025;TRX00786;Jaket Hoodie;Fashion;120000;3;360000;Wardi Farida;Medan;COD;Dikirim
+10/03/2025;TRX00787;Minyak Aromaterapi;Kesehatan;45000;3;135000;Candrakanta Latupono;Bandung;Transfer Bank;Dikirim
+16/03/2025;TRX00788;Jaket Hoodie;Fashion;120000;4;480000;Joko Haryanto;Medan;COD;Dikirim
+27/01/2025;TRX00789;Kaos Oversize;Fashion;85000;3;255000;Kajen Utami;Semarang;E-Wallet;Dikirim
+19/03/2025;TRX00790;Minyak Aromaterapi;Kesehatan;45000;1;45000;Fitriani Ramadan, M.Pd;Jakarta;COD;Diproses
+03/03/2025;TRX00791;Planner 2025;Lifestyle;35000;2;70000;Kasim Pradana;Yogyakarta;E-Wallet;Diterima
+21/01/2025;TRX00792;Planner 2025;Lifestyle;35000;4;140000;Nasim Mayasari, S.I.Kom;Semarang;E-Wallet;Diterima
+11/01/2025;TRX00793;Jaket Hoodie;Fashion;120000;2;240000;Usyi Hariyah;Makassar;COD;Diproses
+07/01/2025;TRX00794;Minyak Aromaterapi;Kesehatan;45000;3;135000;Bagus Usamah, S.I.Kom;Semarang;COD;Dikirim
+26/05/2025;TRX00795;Sabun Organik Green;Kesehatan;25000;1;25000;Saiful Hasanah;Palembang;COD;Diproses
+20/06/2025;TRX00796;Lip Balm Natural;Kecantikan;29000;2;58000;Ulva Aryani;Surabaya;E-Wallet;Dikirim
+24/06/2025;TRX00797;Powerbank 10.000mAh;Elektronik;160000;4;640000;Nyoman Simbolon, M.TI.;Semarang;COD;Dikirim
+26/04/2025;TRX00798;Headset Wireless;Elektronik;230000;2;460000;KH. Ismail Firmansyah, S.Farm;Jakarta;Transfer Bank;Diterima
+29/04/2025;TRX00799;Powerbank 10.000mAh;Elektronik;160000;5;800000;Najwa Maryati;Semarang;E-Wallet;Diproses
+15/01/2025;TRX00800;Headset Wireless;Elektronik;230000;3;690000;Virman Saptono, S.Ked;Medan;COD;Diterima
+25/01/2025;TRX00801;Lip Balm Natural;Kecantikan;29000;5;145000;Ir. Fitriani Megantara, S.Kom;Yogyakarta;E-Wallet;Diterima
+02/06/2025;TRX00802;Powerbank 10.000mAh;Elektronik;160000;2;320000;Tgk. Clara Wahyudin;Yogyakarta;COD;Diproses
+11/02/2025;TRX00803;Minyak Aromaterapi;Kesehatan;45000;3;135000;Kadir Prasasta;Surabaya;E-Wallet;Diproses
+03/05/2025;TRX00804;Powerbank 10.000mAh;Elektronik;160000;2;320000;Cager Setiawan;Palembang;E-Wallet;Diterima
+26/01/2025;TRX00805;Minyak Aromaterapi;Kesehatan;45000;2;90000;Dr. Widya Firgantoro, M.M.;Jakarta;COD;Diproses
+09/01/2025;TRX00806;Minyak Aromaterapi;Kesehatan;45000;5;225000;Ana Narpati;Surabaya;COD;Diterima
+30/01/2025;TRX00807;Lip Balm Natural;Kecantikan;29000;4;116000;Tgk. Putri Hutapea;Medan;Transfer Bank;Dikirim
+31/03/2025;TRX00808;Planner 2025;Lifestyle;35000;5;175000;Nugraha Prasasta, M.TI.;Makassar;Transfer Bank;Diterima
+15/06/2025;TRX00809;Lip Balm Natural;Kecantikan;29000;2;58000;Perkasa Yuliarti;Jakarta;Transfer Bank;Diproses
+11/04/2025;TRX00810;Lip Balm Natural;Kecantikan;29000;4;116000;Salman Budiman;Makassar;Transfer Bank;Diterima
+14/02/2025;TRX00811;Minyak Aromaterapi;Kesehatan;45000;4;180000;Vino Ardianto;Surabaya;Transfer Bank;Diproses
+05/01/2025;TRX00812;Tumbler Stainless;Lifestyle;70000;3;210000;Nasrullah Halim, S.E.I;Yogyakarta;Transfer Bank;Dikirim
+15/06/2025;TRX00813;Powerbank 10.000mAh;Elektronik;160000;3;480000;drg. Adhiarja Widodo, S.Farm;Surabaya;Transfer Bank;Diproses
+16/02/2025;TRX00814;Planner 2025;Lifestyle;35000;5;175000;Wadi Nasyidah, S.Farm;Palembang;Transfer Bank;Diproses
+25/02/2025;TRX00815;Powerbank 10.000mAh;Elektronik;160000;2;320000;Hj. Nova Hutagalung, S.Pt;Jakarta;E-Wallet;Diproses
+25/05/2025;TRX00816;Minyak Aromaterapi;Kesehatan;45000;5;225000;Bagiya Maryati;Bandung;E-Wallet;Diproses
+17/05/2025;TRX00817;Powerbank 10.000mAh;Elektronik;160000;1;160000;dr. Vanya Simanjuntak, S.Farm;Palembang;Transfer Bank;Diproses
+22/03/2025;TRX00818;Kaos Oversize;Fashion;85000;3;255000;Puspa Safitri;Yogyakarta;COD;Diproses
+23/01/2025;TRX00819;Sabun Organik Green;Kesehatan;25000;1;25000;Drs. Surya Mandala;Bandung;COD;Diterima
+23/04/2025;TRX00820;Skincare GlowBright;Kecantikan;150000;5;750000;Hj. Devi Putra, S.Kom;Surabaya;E-Wallet;Dikirim
+13/01/2025;TRX00821;Sabun Organik Green;Kesehatan;25000;3;75000;Dr. Gaman Anggraini, S.Farm;Semarang;E-Wallet;Dikirim
+01/02/2025;TRX00822;Headset Wireless;Elektronik;230000;1;230000;Daniswara Mulyani;Bandung;COD;Dikirim
+23/03/2025;TRX00823;Lip Balm Natural;Kecantikan;29000;4;116000;Keisha Wulandari, M.Pd;Bandung;COD;Diproses
+29/06/2025;TRX00824;Sabun Organik Green;Kesehatan;25000;2;50000;Emong Prabowo;Palembang;E-Wallet;Diproses
+23/01/2025;TRX00825;Sabun Organik Green;Kesehatan;25000;5;125000;Halima Nababan;Makassar;COD;Dikirim
+16/06/2025;TRX00826;Tumbler Stainless;Lifestyle;70000;2;140000;Balamantri Saputra;Semarang;E-Wallet;Dikirim
+16/03/2025;TRX00827;Powerbank 10.000mAh;Elektronik;160000;4;640000;Sutan Lutfan Laksita, M.Ak;Yogyakarta;Transfer Bank;Dikirim
+04/04/2025;TRX00828;Lip Balm Natural;Kecantikan;29000;4;116000;R.A. Gilda Putra, S.E.I;Surabaya;Transfer Bank;Dikirim
+26/03/2025;TRX00829;Sabun Organik Green;Kesehatan;25000;2;50000;Elon Simanjuntak;Makassar;Transfer Bank;Dikirim
+04/03/2025;TRX00830;Tumbler Stainless;Lifestyle;70000;3;210000;KH. Oskar Widodo, M.Pd;Bandung;COD;Diterima
+30/04/2025;TRX00831;Planner 2025;Lifestyle;35000;5;175000;Cahyadi Pratama;Palembang;E-Wallet;Diterima
+05/06/2025;TRX00832;Planner 2025;Lifestyle;35000;2;70000;Utama Purnawati, S.Kom;Makassar;Transfer Bank;Diproses
+15/06/2025;TRX00833;Jaket Hoodie;Fashion;120000;2;240000;Gabriella Safitri;Makassar;COD;Dikirim
+04/04/2025;TRX00834;Powerbank 10.000mAh;Elektronik;160000;5;800000;Ella Nashiruddin, S.T.;Semarang;E-Wallet;Dikirim
+17/06/2025;TRX00835;Kaos Oversize;Fashion;85000;4;340000;Gina Jailani;Jakarta;E-Wallet;Diproses
+19/04/2025;TRX00836;Planner 2025;Lifestyle;35000;4;140000;Mustofa Maryadi;Medan;Transfer Bank;Dikirim
+05/05/2025;TRX00837;Skincare GlowBright;Kecantikan;150000;4;600000;Darmanto Palastri;Palembang;E-Wallet;Diproses
+20/02/2025;TRX00838;Kaos Oversize;Fashion;85000;5;425000;Kawaya Safitri;Yogyakarta;Transfer Bank;Dikirim
+27/06/2025;TRX00839;Powerbank 10.000mAh;Elektronik;160000;1;160000;Gaiman Uyainah;Semarang;Transfer Bank;Diterima
+25/02/2025;TRX00840;Jaket Hoodie;Fashion;120000;5;600000;Ophelia Gunarto;Jakarta;COD;Diterima
+20/03/2025;TRX00841;Skincare GlowBright;Kecantikan;150000;3;450000;Drs. Rafid Suryatmi;Palembang;Transfer Bank;Dikirim
+09/05/2025;TRX00842;Lip Balm Natural;Kecantikan;29000;1;29000;Cut Tari Usamah;Jakarta;COD;Dikirim
+30/03/2025;TRX00843;Minyak Aromaterapi;Kesehatan;45000;3;135000;Kasiyah Situmorang;Surabaya;E-Wallet;Diproses
+24/03/2025;TRX00844;Minyak Aromaterapi;Kesehatan;45000;3;135000;Padmi Prakasa, S.IP;Makassar;COD;Diterima
+18/01/2025;TRX00845;Planner 2025;Lifestyle;35000;5;175000;Pranawa Maulana;Bandung;COD;Diterima
+29/06/2025;TRX00846;Sabun Organik Green;Kesehatan;25000;1;25000;Edi Samosir;Bandung;COD;Diterima
+18/04/2025;TRX00847;Skincare GlowBright;Kecantikan;150000;1;150000;Uda Wahyudin;Yogyakarta;COD;Diproses
+18/01/2025;TRX00848;Kaos Oversize;Fashion;85000;4;340000;Tedi Hutapea;Semarang;Transfer Bank;Diterima
+21/02/2025;TRX00849;Sabun Organik Green;Kesehatan;25000;5;125000;Tgk. Pranata Budiman;Medan;COD;Dikirim
+13/06/2025;TRX00850;Minyak Aromaterapi;Kesehatan;45000;1;45000;Ratih Hartati;Palembang;Transfer Bank;Diproses
+14/04/2025;TRX00851;Sabun Organik Green;Kesehatan;25000;1;25000;Cakrabuana Damanik;Bandung;Transfer Bank;Diterima
+14/01/2025;TRX00852;Headset Wireless;Elektronik;230000;4;920000;Ganda Haryanti;Jakarta;COD;Dikirim
+21/04/2025;TRX00853;Minyak Aromaterapi;Kesehatan;45000;1;45000;Drs. Eman Rajasa, S.E.;Yogyakarta;Transfer Bank;Diterima
+28/01/2025;TRX00854;Lip Balm Natural;Kecantikan;29000;4;116000;Opung Mansur;Jakarta;COD;Diterima
+10/05/2025;TRX00855;Powerbank 10.000mAh;Elektronik;160000;2;320000;Darimin Melani;Surabaya;Transfer Bank;Dikirim
+28/06/2025;TRX00856;Lip Balm Natural;Kecantikan;29000;4;116000;Laras Hidayanto, M.Kom.;Makassar;Transfer Bank;Dikirim
+09/05/2025;TRX00857;Jaket Hoodie;Fashion;120000;3;360000;Cahyadi Nugroho;Palembang;E-Wallet;Diterima
+12/06/2025;TRX00858;Minyak Aromaterapi;Kesehatan;45000;4;180000;Saadat Wasita;Jakarta;Transfer Bank;Diterima
+11/03/2025;TRX00859;Planner 2025;Lifestyle;35000;5;175000;drg. Lalita Pratiwi;Semarang;Transfer Bank;Diproses
+18/04/2025;TRX00860;Lip Balm Natural;Kecantikan;29000;2;58000;Chelsea Laksmiwati;Jakarta;Transfer Bank;Dikirim
+28/04/2025;TRX00861;Jaket Hoodie;Fashion;120000;1;120000;drg. Carla Latupono, S.Farm;Surabaya;E-Wallet;Diproses
+29/01/2025;TRX00862;Headset Wireless;Elektronik;230000;5;1150000;H. Vino Rajata;Surabaya;Transfer Bank;Diterima
+05/06/2025;TRX00863;Powerbank 10.000mAh;Elektronik;160000;4;640000;Drs. Jasmin Wijaya, S.Psi;Makassar;E-Wallet;Dikirim
+21/04/2025;TRX00864;Minyak Aromaterapi;Kesehatan;45000;5;225000;dr. Dalima Fujiati;Yogyakarta;E-Wallet;Diproses
+04/03/2025;TRX00865;Kaos Oversize;Fashion;85000;1;85000;Dr. Aurora Setiawan, S.Pt;Semarang;COD;Dikirim
+28/01/2025;TRX00866;Sabun Organik Green;Kesehatan;25000;2;50000;drg. Setya Putra;Jakarta;Transfer Bank;Dikirim
+09/01/2025;TRX00867;Sabun Organik Green;Kesehatan;25000;3;75000;Ifa Saputra;Surabaya;E-Wallet;Diproses
+07/05/2025;TRX00868;Powerbank 10.000mAh;Elektronik;160000;2;320000;Febi Andriani;Medan;Transfer Bank;Dikirim
+19/02/2025;TRX00869;Kaos Oversize;Fashion;85000;1;85000;Ir. Gaman Suwarno, S.Kom;Makassar;COD;Diterima
+12/04/2025;TRX00870;Headset Wireless;Elektronik;230000;3;690000;Radit Manullang;Surabaya;Transfer Bank;Diterima
+08/06/2025;TRX00871;Headset Wireless;Elektronik;230000;2;460000;Vero Prasetya;Bandung;E-Wallet;Diproses
+08/05/2025;TRX00872;Kaos Oversize;Fashion;85000;4;340000;Dr. Yulia Hidayat;Makassar;COD;Diproses
+21/04/2025;TRX00873;Powerbank 10.000mAh;Elektronik;160000;5;800000;Drs. Winda Kusumo;Semarang;COD;Diproses
+24/04/2025;TRX00874;Sabun Organik Green;Kesehatan;25000;2;50000;Karimah Latupono;Surabaya;COD;Dikirim
+27/01/2025;TRX00875;Lip Balm Natural;Kecantikan;29000;1;29000;Malik Hassanah;Jakarta;Transfer Bank;Diterima
+28/03/2025;TRX00876;Powerbank 10.000mAh;Elektronik;160000;4;640000;Lidya Napitupulu;Makassar;COD;Diproses
+21/02/2025;TRX00877;Kaos Oversize;Fashion;85000;3;255000;Vera Namaga, S.T.;Palembang;Transfer Bank;Dikirim
+03/05/2025;TRX00878;Minyak Aromaterapi;Kesehatan;45000;2;90000;H. Gamanto Adriansyah;Semarang;Transfer Bank;Dikirim
+01/03/2025;TRX00879;Headset Wireless;Elektronik;230000;4;920000;Paramita Waskita;Bandung;E-Wallet;Dikirim
+12/03/2025;TRX00880;Lip Balm Natural;Kecantikan;29000;2;58000;Bajragin Sihotang;Palembang;COD;Dikirim
+02/04/2025;TRX00881;Minyak Aromaterapi;Kesehatan;45000;1;45000;Jaswadi Novitasari;Palembang;Transfer Bank;Diproses
+21/01/2025;TRX00882;Minyak Aromaterapi;Kesehatan;45000;4;180000;dr. Prabu Kurniawan, S.IP;Palembang;E-Wallet;Diterima
+26/01/2025;TRX00883;Powerbank 10.000mAh;Elektronik;160000;2;320000;Dwi Puspasari;Yogyakarta;E-Wallet;Diproses
+08/02/2025;TRX00884;Kaos Oversize;Fashion;85000;3;255000;Tantri Sirait;Surabaya;COD;Diproses
+13/04/2025;TRX00885;Headset Wireless;Elektronik;230000;3;690000;Zelda Kusmawati;Semarang;Transfer Bank;Diterima
+16/03/2025;TRX00886;Sabun Organik Green;Kesehatan;25000;5;125000;Raina Pangestu, M.Pd;Jakarta;COD;Diproses
+04/01/2025;TRX00887;Skincare GlowBright;Kecantikan;150000;2;300000;Paramita Yulianti;Yogyakarta;COD;Diterima
+05/02/2025;TRX00888;Kaos Oversize;Fashion;85000;2;170000;Muni Suartini;Surabaya;E-Wallet;Diproses
+07/04/2025;TRX00889;Skincare GlowBright;Kecantikan;150000;1;150000;Prasetya Pertiwi;Semarang;COD;Diterima
+01/04/2025;TRX00890;Skincare GlowBright;Kecantikan;150000;4;600000;dr. Ophelia Tamba, S.E.I;Jakarta;Transfer Bank;Dikirim
+22/02/2025;TRX00891;Lip Balm Natural;Kecantikan;29000;3;87000;Harjasa Winarno;Bandung;COD;Dikirim
+20/06/2025;TRX00892;Jaket Hoodie;Fashion;120000;4;480000;Zelaya Thamrin;Bandung;COD;Diterima
+03/02/2025;TRX00893;Lip Balm Natural;Kecantikan;29000;5;145000;Ani Hastuti, M.Pd;Makassar;E-Wallet;Diproses
+28/04/2025;TRX00894;Planner 2025;Lifestyle;35000;5;175000;Puti Padma Zulkarnain;Yogyakarta;E-Wallet;Diterima
+13/01/2025;TRX00895;Kaos Oversize;Fashion;85000;5;425000;Genta Prastuti;Bandung;Transfer Bank;Diproses
+11/05/2025;TRX00896;Planner 2025;Lifestyle;35000;2;70000;Drs. Marsudi Yuliarti;Medan;Transfer Bank;Diterima
+18/03/2025;TRX00897;Minyak Aromaterapi;Kesehatan;45000;3;135000;Warsa Hakim;Medan;Transfer Bank;Diproses
+28/03/2025;TRX00898;Tumbler Stainless;Lifestyle;70000;4;280000;Paris Samosir;Yogyakarta;COD;Dikirim
+03/06/2025;TRX00899;Skincare GlowBright;Kecantikan;150000;3;450000;Zulfa Nuraini, M.Farm;Makassar;COD;Dikirim
+17/06/2025;TRX00900;Headset Wireless;Elektronik;230000;1;230000;Cut Zelda Salahudin;Surabaya;COD;Dikirim
+30/01/2025;TRX00901;Kaos Oversize;Fashion;85000;3;255000;Panji Maheswara;Surabaya;E-Wallet;Diterima
+08/04/2025;TRX00902;Sabun Organik Green;Kesehatan;25000;1;25000;Vega Rahayu;Palembang;COD;Diproses
+01/01/2025;TRX00903;Jaket Hoodie;Fashion;120000;3;360000;KH. Teddy Pratama, S.Kom;Palembang;E-Wallet;Dikirim
+13/02/2025;TRX00904;Planner 2025;Lifestyle;35000;4;140000;Tantri Damanik;Makassar;COD;Diterima
+20/03/2025;TRX00905;Minyak Aromaterapi;Kesehatan;45000;5;225000;Asmuni Ramadan;Palembang;E-Wallet;Diproses
+16/06/2025;TRX00906;Minyak Aromaterapi;Kesehatan;45000;5;225000;Violet Iswahyudi;Semarang;E-Wallet;Diproses
+07/02/2025;TRX00907;Powerbank 10.000mAh;Elektronik;160000;5;800000;Sutan Galang Latupono, S.I.Kom;Yogyakarta;E-Wallet;Diproses
+10/06/2025;TRX00908;Jaket Hoodie;Fashion;120000;2;240000;Heru Lestari;Bandung;E-Wallet;Diterima
+19/02/2025;TRX00909;Tumbler Stainless;Lifestyle;70000;4;280000;Farah Budiman;Surabaya;Transfer Bank;Dikirim
+27/05/2025;TRX00910;Skincare GlowBright;Kecantikan;150000;4;600000;Carla Sitompul, M.Farm;Palembang;E-Wallet;Diterima
+13/01/2025;TRX00911;Skincare GlowBright;Kecantikan;150000;4;600000;Ina Sihombing;Palembang;E-Wallet;Diproses
+03/05/2025;TRX00912;Kaos Oversize;Fashion;85000;2;170000;Gandewa Rahmawati, S.IP;Yogyakarta;COD;Diproses
+15/02/2025;TRX00913;Powerbank 10.000mAh;Elektronik;160000;5;800000;Jaswadi Andriani;Semarang;COD;Diproses
+07/05/2025;TRX00914;Headset Wireless;Elektronik;230000;5;1150000;Kenari Jailani;Makassar;COD;Diproses
+27/06/2025;TRX00915;Sabun Organik Green;Kesehatan;25000;3;75000;Garda Mardhiyah;Yogyakarta;COD;Diterima
+20/05/2025;TRX00916;Kaos Oversize;Fashion;85000;5;425000;Ayu Marbun;Palembang;Transfer Bank;Diproses
+26/06/2025;TRX00917;Minyak Aromaterapi;Kesehatan;45000;2;90000;Faizah Prabowo;Yogyakarta;Transfer Bank;Diproses
+30/03/2025;TRX00918;Tumbler Stainless;Lifestyle;70000;2;140000;Daliono Hartati;Medan;COD;Diproses
+01/05/2025;TRX00919;Planner 2025;Lifestyle;35000;2;70000;Hartana Situmorang;Bandung;COD;Dikirim
+18/03/2025;TRX00920;Skincare GlowBright;Kecantikan;150000;4;600000;Oliva Oktaviani;Semarang;Transfer Bank;Diterima
+21/05/2025;TRX00921;Planner 2025;Lifestyle;35000;1;35000;Galiono Pangestu, S.Pt;Bandung;E-Wallet;Dikirim
+12/06/2025;TRX00922;Tumbler Stainless;Lifestyle;70000;1;70000;drg. Betania Mansur;Semarang;E-Wallet;Diterima
+07/02/2025;TRX00923;Tumbler Stainless;Lifestyle;70000;3;210000;KH. Irnanto Zulaika, S.Kom;Medan;COD;Diproses
+03/05/2025;TRX00924;Skincare GlowBright;Kecantikan;150000;5;750000;Rahmi Putra, S.Farm;Semarang;Transfer Bank;Diterima
+04/02/2025;TRX00925;Headset Wireless;Elektronik;230000;3;690000;Pandu Maheswara;Yogyakarta;COD;Diterima
+01/02/2025;TRX00926;Kaos Oversize;Fashion;85000;1;85000;Garda Yuniar;Makassar;E-Wallet;Diproses
+10/01/2025;TRX00927;Kaos Oversize;Fashion;85000;5;425000;Lasmono Najmudin;Semarang;COD;Diterima
+26/06/2025;TRX00928;Headset Wireless;Elektronik;230000;1;230000;Tgk. Viman Laksmiwati;Bandung;E-Wallet;Diproses
+01/04/2025;TRX00929;Kaos Oversize;Fashion;85000;3;255000;Ani Nainggolan;Semarang;COD;Diterima
+12/02/2025;TRX00930;Lip Balm Natural;Kecantikan;29000;5;145000;Ridwan Usada;Medan;E-Wallet;Diproses
+24/04/2025;TRX00931;Headset Wireless;Elektronik;230000;2;460000;H. Baktianto Purnawati;Jakarta;COD;Diproses
+14/02/2025;TRX00932;Sabun Organik Green;Kesehatan;25000;2;50000;H. Heryanto Winarsih, S.Ked;Makassar;COD;Dikirim
+04/03/2025;TRX00933;Skincare GlowBright;Kecantikan;150000;2;300000;Darmaji Mulyani, S.T.;Semarang;Transfer Bank;Dikirim
+15/05/2025;TRX00934;Kaos Oversize;Fashion;85000;5;425000;Indah Novitasari;Jakarta;Transfer Bank;Diproses
+03/03/2025;TRX00935;Sabun Organik Green;Kesehatan;25000;2;50000;Bagya Jailani;Yogyakarta;E-Wallet;Dikirim
+24/03/2025;TRX00936;Planner 2025;Lifestyle;35000;1;35000;Wasis Salahudin;Makassar;E-Wallet;Diproses
+21/03/2025;TRX00937;Headset Wireless;Elektronik;230000;4;920000;Radika Mandasari;Yogyakarta;Transfer Bank;Diterima
+28/06/2025;TRX00938;Powerbank 10.000mAh;Elektronik;160000;3;480000;Nasim Tarihoran;Medan;E-Wallet;Dikirim
+09/02/2025;TRX00939;Minyak Aromaterapi;Kesehatan;45000;3;135000;Baktiono Rajata;Makassar;Transfer Bank;Diterima
+08/06/2025;TRX00940;Kaos Oversize;Fashion;85000;4;340000;dr. Akarsana Hastuti;Palembang;COD;Diterima
+20/01/2025;TRX00941;Kaos Oversize;Fashion;85000;2;170000;Samiah Sihotang, S.Farm;Palembang;E-Wallet;Diproses
+09/01/2025;TRX00942;Minyak Aromaterapi;Kesehatan;45000;3;135000;Puti Genta Widodo, M.TI.;Bandung;COD;Diproses
+27/01/2025;TRX00943;Jaket Hoodie;Fashion;120000;5;600000;Tgk. Galih Dongoran;Jakarta;E-Wallet;Diterima
+26/02/2025;TRX00944;Tumbler Stainless;Lifestyle;70000;3;210000;Nurul Salahudin, S.Pt;Palembang;Transfer Bank;Diterima
+27/06/2025;TRX00945;Tumbler Stainless;Lifestyle;70000;5;350000;Maimunah Mansur, S.Farm;Semarang;Transfer Bank;Diproses
+28/05/2025;TRX00946;Kaos Oversize;Fashion;85000;5;425000;Caraka Mandala, S.Kom;Jakarta;Transfer Bank;Diproses
+04/02/2025;TRX00947;Tumbler Stainless;Lifestyle;70000;2;140000;T. Raden Nurdiyanti;Jakarta;E-Wallet;Diproses
+11/06/2025;TRX00948;Headset Wireless;Elektronik;230000;3;690000;drg. Kasusra Yulianti, S.T.;Surabaya;Transfer Bank;Dikirim
+23/04/2025;TRX00949;Planner 2025;Lifestyle;35000;3;105000;Natalia Narpati;Makassar;E-Wallet;Diterima
+01/02/2025;TRX00950;Skincare GlowBright;Kecantikan;150000;1;150000;T. Cemeti Zulaika, S.Pd;Semarang;E-Wallet;Diterima
+16/05/2025;TRX00951;Jaket Hoodie;Fashion;120000;1;120000;Jarwi Ardianto, S.Gz;Palembang;Transfer Bank;Diterima
+14/03/2025;TRX00952;Headset Wireless;Elektronik;230000;5;1150000;Vivi Siregar;Jakarta;E-Wallet;Diproses
+11/06/2025;TRX00953;Lip Balm Natural;Kecantikan;29000;1;29000;Bagya Maulana, S.Pt;Surabaya;COD;Dikirim
+12/01/2025;TRX00954;Skincare GlowBright;Kecantikan;150000;4;600000;Kunthara Siregar;Medan;Transfer Bank;Dikirim
+07/04/2025;TRX00955;Planner 2025;Lifestyle;35000;2;70000;Ikhsan Sihotang;Makassar;E-Wallet;Dikirim
+03/03/2025;TRX00956;Headset Wireless;Elektronik;230000;2;460000;H. Jabal Saputra, M.Farm;Palembang;E-Wallet;Diterima
+01/01/2025;TRX00957;Planner 2025;Lifestyle;35000;1;35000;Luwes Megantara, M.Pd;Palembang;Transfer Bank;Dikirim
+09/01/2025;TRX00958;Planner 2025;Lifestyle;35000;1;35000;Tiara Salahudin, S.Psi;Palembang;E-Wallet;Diproses
+16/06/2025;TRX00959;Minyak Aromaterapi;Kesehatan;45000;2;90000;Lantar Mulyani;Bandung;E-Wallet;Diterima
+16/06/2025;TRX00960;Planner 2025;Lifestyle;35000;5;175000;Maras Wibisono;Bandung;Transfer Bank;Diproses
+18/02/2025;TRX00961;Powerbank 10.000mAh;Elektronik;160000;4;640000;Aditya Pratiwi, M.M.;Jakarta;COD;Diproses
+09/05/2025;TRX00962;Tumbler Stainless;Lifestyle;70000;4;280000;Lidya Prayoga;Palembang;E-Wallet;Diproses
+04/05/2025;TRX00963;Kaos Oversize;Fashion;85000;2;170000;Widya Sitompul;Yogyakarta;Transfer Bank;Diterima
+24/04/2025;TRX00964;Planner 2025;Lifestyle;35000;5;175000;Ir. Bakidin Firmansyah;Bandung;E-Wallet;Diterima
+24/06/2025;TRX00965;Sabun Organik Green;Kesehatan;25000;1;25000;Calista Ramadan, S.E.I;Palembang;Transfer Bank;Dikirim
+05/05/2025;TRX00966;Powerbank 10.000mAh;Elektronik;160000;1;160000;Tgk. Maida Sihombing, S.Sos;Semarang;E-Wallet;Diterima
+25/01/2025;TRX00967;Powerbank 10.000mAh;Elektronik;160000;2;320000;Dirja Nugroho;Medan;COD;Dikirim
+24/04/2025;TRX00968;Kaos Oversize;Fashion;85000;4;340000;Okta Wijaya;Jakarta;E-Wallet;Dikirim
+02/05/2025;TRX00969;Jaket Hoodie;Fashion;120000;2;240000;Aditya Novitasari;Jakarta;Transfer Bank;Diterima
+18/03/2025;TRX00970;Sabun Organik Green;Kesehatan;25000;3;75000;R. Cornelia Ramadan;Surabaya;COD;Diterima
+28/03/2025;TRX00971;Tumbler Stainless;Lifestyle;70000;2;140000;Cengkir Utama;Medan;Transfer Bank;Diterima
+27/03/2025;TRX00972;Jaket Hoodie;Fashion;120000;4;480000;Galuh Simanjuntak, M.Ak;Surabaya;COD;Diproses
+24/06/2025;TRX00973;Tumbler Stainless;Lifestyle;70000;3;210000;Vero Mangunsong;Bandung;Transfer Bank;Diterima
+23/03/2025;TRX00974;Powerbank 10.000mAh;Elektronik;160000;1;160000;Dr. Diana Damanik;Palembang;COD;Dikirim
+09/03/2025;TRX00975;Kaos Oversize;Fashion;85000;2;170000;Estiono Jailani;Medan;Transfer Bank;Diterima
+25/04/2025;TRX00976;Skincare GlowBright;Kecantikan;150000;5;750000;Hasim Sitompul;Surabaya;COD;Diproses
+20/06/2025;TRX00977;Powerbank 10.000mAh;Elektronik;160000;1;160000;Eva Maryati;Palembang;Transfer Bank;Diproses
+08/02/2025;TRX00978;Planner 2025;Lifestyle;35000;1;35000;Yunita Wijaya;Jakarta;COD;Diterima
+11/01/2025;TRX00979;Powerbank 10.000mAh;Elektronik;160000;1;160000;Amalia Pradipta;Yogyakarta;Transfer Bank;Diproses
+15/05/2025;TRX00980;Powerbank 10.000mAh;Elektronik;160000;1;160000;Karna Simbolon;Medan;Transfer Bank;Diproses
+26/02/2025;TRX00981;Planner 2025;Lifestyle;35000;2;70000;Karsana Agustina;Palembang;E-Wallet;Diproses
+06/02/2025;TRX00982;Kaos Oversize;Fashion;85000;3;255000;Cinta Fujiati;Makassar;COD;Diterima
+05/05/2025;TRX00983;Minyak Aromaterapi;Kesehatan;45000;5;225000;drg. Cinthia Januar, M.TI.;Jakarta;COD;Diterima
+06/06/2025;TRX00984;Sabun Organik Green;Kesehatan;25000;3;75000;Saka Adriansyah, S.E.I;Yogyakarta;COD;Diproses
+14/05/2025;TRX00985;Kaos Oversize;Fashion;85000;2;170000;Ulya Pradipta, S.Sos;Jakarta;COD;Diproses
+10/06/2025;TRX00986;Sabun Organik Green;Kesehatan;25000;2;50000;Caket Yulianti;Bandung;COD;Diproses
+06/02/2025;TRX00987;Planner 2025;Lifestyle;35000;4;140000;Wisnu Prakasa;Yogyakarta;Transfer Bank;Dikirim
+13/04/2025;TRX00988;Kaos Oversize;Fashion;85000;3;255000;R. Nilam Prakasa, M.Ak;Yogyakarta;Transfer Bank;Diterima
+03/05/2025;TRX00989;Sabun Organik Green;Kesehatan;25000;2;50000;Ir. Tira Prasetyo, S.H.;Medan;Transfer Bank;Diterima
+12/05/2025;TRX00990;Jaket Hoodie;Fashion;120000;5;600000;dr. Cakrabirawa Tamba;Yogyakarta;E-Wallet;Diproses
+04/05/2025;TRX00991;Planner 2025;Lifestyle;35000;5;175000;Aurora Prasasta, S.E.I;Surabaya;E-Wallet;Diproses
+13/02/2025;TRX00992;Tumbler Stainless;Lifestyle;70000;4;280000;Sadina Pertiwi;Yogyakarta;E-Wallet;Diterima
+01/02/2025;TRX00993;Skincare GlowBright;Kecantikan;150000;3;450000;R. Simon Prastuti, S.Kom;Bandung;E-Wallet;Dikirim
+22/04/2025;TRX00994;Lip Balm Natural;Kecantikan;29000;4;116000;Dinda Purnawati;Makassar;COD;Diterima
+26/06/2025;TRX00995;Headset Wireless;Elektronik;230000;1;230000;drg. Talia Hutasoit, S.I.Kom;Bandung;E-Wallet;Diterima
+26/06/2025;TRX00996;Jaket Hoodie;Fashion;120000;3;360000;Anom Natsir;Semarang;E-Wallet;Dikirim
+17/04/2025;TRX00997;Jaket Hoodie;Fashion;120000;2;240000;Gatot Firmansyah;Yogyakarta;E-Wallet;Dikirim
+24/05/2025;TRX00998;Headset Wireless;Elektronik;230000;4;920000;Ulva Suryatmi;Semarang;E-Wallet;Diterima
+19/06/2025;TRX00999;Tumbler Stainless;Lifestyle;70000;4;280000;Dr. Prakosa Yolanda, M.Ak;Semarang;COD;Diterima
+28/03/2025;TRX01000;Kaos Oversize;Fashion;85000;1;85000;Lurhur Saputra;Semarang;COD;Dikirim
